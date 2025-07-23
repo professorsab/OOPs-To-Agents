@@ -2,10 +2,14 @@ from langchain_core.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain.chains import SequentialChain
 from langchain_google_genai import ChatGoogleGenerativeAI
+import os
+from dotenv import load_dotenv
+load_dotenv()
+google_api_key = os.getenv("GOOGLE_API_KEY")
 
-llm=ChatGoogleGenerativeAI(
+llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-flash",
-    google_api_key="AIzaSyBcc3o-tG6-okAkM1JAbZnswGMMK60UCgg"
+    google_api_key=google_api_key
 )
 
 _1st_Prompt=PromptTemplate(

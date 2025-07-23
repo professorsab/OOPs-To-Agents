@@ -29,15 +29,18 @@ import os
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import PromptTemplate
 from langchain.chains import LLMChain
+from dotenv import load_dotenv
 
 # # Initialize LangChain-compatible Gemini
 # llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=os.getenv("GEMINI_API_KEY"))
 
 
 # Initialize with explicit API key
+load_dotenv()
+
 llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-flash",
-    google_api_key="AIzaSyBcc3o-tG6-okAkM1JAbZnswGMMK60UCgg"  # Replace with your key or use os.getenv()
+    google_api_key=os.getenv("GEMINI_API_KEY")
 )
 
 # Define prompt
