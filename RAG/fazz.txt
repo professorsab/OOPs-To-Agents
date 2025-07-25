@@ -1,0 +1,1038 @@
+
+
+
+History of computing hardware
+
+The history of computing hardware spans the developments from early devices used for simple calculations to today's complex computers, encompassing advancements in both analog and digital technology.
+The first aids to computation were purely mechanical devices which required the operator to set up the initial values of an elementary arithmetic operation, then manipulate the device to obtain the result. In later stages, computing devices began representing numbers in continuous forms, such as by distance along a scale, rotation of a shaft, or a specific voltage level. Numbers could also be represented in the form of digits, automatically manipulated by a mechanism. Although this approach generally required more complex mechanisms, it greatly increased the precision of results. The development of transistor technology, followed by the invention of integrated circuit chips, led to revolutionary breakthroughs.
+
+Transistor-based computers and, later, integrated circuit-based computers enabled digital systems to gradually replace analog systems, increasing both efficiency and processing power. Metal-oxide- semiconductor (MOS) large-scale integration (LSI) then enabled semiconductor memory and the microprocessor, leading to another key breakthrough, the miniaturized personal computer (PC), in the 1970s. The cost of computers gradually became so low that personal computers by the 1990s, and then mobile computers (smartphones and tablets) in the 2000s, became ubiquitous.
+
+
+Early devices
+
+
+
+Ancient and medieval
+Devices have been used to aid computation for thousands of years, mostly using one-to-one correspondence with fingers. The earliest counting device was probably a form of tally stick. The Lebombo bone from the mountains between Eswatini and South Africa may be the oldest
+known mathematical artifact.[2] It
+dates  from  35,000  BCE  and
+
+
+
+
+Suanpan (The number represented on this abacus is 6,302,715,408.)
+
+
+The Ishango bone is thought to be a Paleolithic tally stick.[a]
+
+consists of 29 distinct notches that were deliberately cut into a baboon's fibula.[3][4]  Later record keeping aids throughout the Fertile Crescent
+included calculi (clay spheres, cones, etc.) which represented counts of items, probably livestock or grains, sealed in hollow unbaked clay containers.[b][6][c] The use of counting rods is one example. The abacus was
+
+early used for arithmetic tasks. What we now call the Roman abacus was used in Babylonia as early as
+
+c. 2700-2300 BC. Since then, many other forms of reckoning boards or tables have been invented. In a medieval European counting house, a checkered cloth would be placed on a table, and markers moved around on it according to certain rules, as an aid to calculating sums of money.
+Several analog computers were constructed in ancient and medieval times to perform astronomical calculations. These included the astrolabe and Antikythera mechanism from the Hellenistic world (c. 150-100 BC).[8] In Roman Egypt, Hero of Alexandria (c. 10-70 AD) made mechanical devices including automata and a programmable cart.[9] The steam-powered automatic flute described by the Book of Ingenious Devices (850) by the Persian-Baghdadi Banu Musa brothers may have been the first programmable device.[10]
+Other early mechanical devices used to perform one or another type of calculations include the planisphere and other mechanical computing devices invented by Al-Biruni (c. AD 1000); the equatorium and universal latitude-independent astrolabe by Al-Zarqali (c. AD 1015); the astronomical analog computers of other medieval Muslim astronomers and engineers; and the astronomical clock tower of Su Song (1094) during the Song dynasty. The castle clock, a hydropowered mechanical astronomical clock invented by Ismail al-Jazari in 1206, was the first programmable analog computer.[11][12][13] Ramon Llull invented the Lullian Circle: a notional machine for calculating answers to philosophical questions (in this case, to do with Christianity) via logical combinatorics. This idea was taken up by Leibniz centuries later, and is thus one of the founding elements in computing and information science.
+
+Renaissance calculating tools
+Scottish mathematician and physicist John Napier discovered that the multiplication and division of numbers could be performed by the addition and subtraction, respectively, of the logarithms of those numbers. While producing the first logarithmic tables, Napier needed to perform many tedious multiplications. It was at this point that he designed his 'Napier's bones', an abacus-like device that greatly
+simplified calculations that involved multiplication and division.[d]
+
+
+
+
+A modern slide rule
+
+Since real numbers can be represented as distances or intervals on a line, the slide rule was invented in the 1620s, shortly after Napier's work, to allow multiplication and division operations to be carried out
+significantly faster than was previously possible.[14]
+Edmund Gunter built a calculating device with a single logarithmic scale at the University of Oxford. His
+
+device greatly simplified arithmetic calculations, including multiplication and division. William Oughtred greatly improved this in 1630 with his circular slide rule. He followed this up with the modern slide rule in 1632, essentially a combination of two Gunter rules, held together with the hands. Slide rules were used by generations of engineers and other mathematically involved professional workers, until the invention of the pocket calculator.[15]
+
+Mechanical calculators
+In 1609, Guidobaldo del Monte made a mechanical multiplier to calculate fractions of a degree. Based on a system of four gears, the rotation of an index on one quadrant corresponds to 60 rotations of another index on an opposite quadrant.[16] Thanks to this machine, errors in the calculation of first, second, third
+
+and quarter degrees can be avoided. Guidobaldo is the first to document the use of gears for mechanical calculation.
+
+Wilhelm Schickard, a German polymath, designed a calculating machine in 1623 which combined a mechanized form of Napier's rods with the world's first mechanical adding machine built into the base. Because it made use of a single-tooth gear there were circumstances in which its carry mechanism would jam.[17] A fire destroyed at least one of the machines in 1624 and it is believed Schickard was too disheartened to build another.
+
+
+In 1642, while still a teenager, Blaise Pascal started some pioneering work on calculating machines and after three years of effort and 50 prototypes[18] he invented a mechanical calculator.[19][20] He built twenty of these machines (called Pascal's calculator or Pascaline) in the following ten years.[21] Nine Pascalines have survived, most of which are on display in European museums.[e] A continuing debate exists over whether Schickard or Pascal should be regarded as the
+"inventor of the mechanical calculator" and the range of issues to be considered is discussed elsewhere.[22]
+
+
+
+View through the back of Pascal's calculator. Pascal invented his machine in 1642.
+
+
+
+
+
+A set of John Napier's calculating tables from around 1680
+
+
+based on the decimal system.[f]
+
+Gottfried Wilhelm von Leibniz invented the stepped reckoner and his famous stepped drum mechanism around 1672. He attempted to create a machine that could be used not only for addition and subtraction but would use a moveable carriage to enable multiplication and division. Leibniz once said "It is unworthy of excellent men to lose hours like slaves in the labour of calculation which could safely be relegated to anyone else if machines were used."[23] However, Leibniz did not incorporate a fully successful carry mechanism. Leibniz also described the binary numeral system,[24] a central ingredient of all modern computers. However, up to the 1940s, many subsequent designs (including Charles Babbage's machines of 1822 and even ENIAC of 1945) were
+
+
+
+Around 1820, Charles Xavier Thomas de Colmar created what would over the rest of the century become the first successful, mass-produced mechanical calculator, the Thomas Arithmometer. It could be used to add and subtract, and with a moveable carriage the operator could also multiply, and divide  by  a  process  of  long  multiplication  and  long
+division.[25] It utilised a stepped drum similar in conception
+to that invented by Leibniz. Mechanical calculators remained in use until the 1970s.
+
+
+
+Detail of an arithmometer built before 1851. The one-digit multiplier cursor (ivory top) is the leftmost cursor.
+
+Punched-card data processing
+In 1804, French weaver Joseph Marie Jacquard developed a loom in which the pattern being woven was controlled by a paper tape constructed from punched cards. The paper tape could be changed without changing the mechanical design of the loom. This was a landmark achievement in programmability. His machine was an improvement over similar weaving looms. Punched cards were preceded by punch bands, as in the machine proposed by Basile Bouchon. These bands would inspire information recording for automatic pianos and more recently numerical control machine tools.
+
+In the late 1880s, the American Herman Hollerith invented data storage on punched cards that could then be read by a machine.[26] To process these punched cards, he invented the tabulator and the keypunch
+machine. His machines used electromechanical relays and counters.[27]
+Hollerith's method was used in the 1890 United States census. That census was processed two years faster than the prior census had been.[28] Hollerith's company eventually became the core of IBM.
+
+
+
+
+
+
+
+IBM punched-card accounting machines, 1936
+
+By 1920, electromechanical tabulating machines could add, subtract, and print accumulated totals.[29] Machine functions were directed by
+inserting dozens of wire jumpers into removable control panels. When the United States instituted Social Security in 1935, IBM punched-card systems were used to process records of 26 million workers.[30] Punched cards became ubiquitous in industry and government for accounting and administration.
+
+
+Leslie Comrie's articles on punched-card methods[31] and W. J. Eckert's publication of Punched Card Methods in Scientific Computation in 1940, described punched-card techniques sufficiently advanced to solve  some  differential  equations  or  perform  multiplication  and  division  using  floating-point
+representations, all on punched cards and unit record machines.[32] Such machines were used during
+World War II for cryptographic statistical processing,[33] as well as a vast number of administrative uses. The Astronomical Computing Bureau of Columbia University performed astronomical calculations representing the state of the art in computing.[34][35]
+
+Calculators
+By the 20th century, earlier mechanical calculators, cash registers, accounting machines, and so on were redesigned to use electric motors, with gear position as the representation for the state of a variable. The word "computer" was a job title assigned to primarily women who used these calculators to perform
+mathematical calculations.[36] By the 1920s, British scientist Lewis Fry Richardson's interest in weather
+prediction led him to propose human computers and numerical analysis to model the weather; to this day, the most powerful computers on Earth are needed to adequately model its weather using the Navier- Stokes equations.[37]
+Companies like Friden, Marchant Calculator and Monroe made desktop mechanical calculators from the 1930s that could add, subtract, multiply and divide.[38] In 1948, the Curta was introduced by Austrian inventor Curt Herzstark. It was a small, hand-cranked mechanical calculator and as such, a descendant of Gottfried Leibniz's Stepped Reckoner and Thomas' Arithmometer.
+
+The world's first all-electronic desktop calculator was the British Bell Punch ANITA, released in 1961.[39][40] It used vacuum tubes, cold- cathode tubes and Dekatrons in its circuits, with 12 cold-cathode "Nixie" tubes for its display. The ANITA sold well since it was the only
+electronic desktop calculator available, and was silent and quick. The tube technology was superseded in June 1963 by the U.S. manufactured Friden EC-130, which had an all-transistor design, a stack of four 13-digit numbers displayed on a 5-inch (13 cm) CRT, and introduced reverse Polish notation (RPN).
+
+
+First proposed general-purpose computing device
+
+The Industrial Revolution (late 18th to early 19th century) had a significant impact on the evolution of computing hardware, as the era's	rapid advancements in machinery and manufacturing
+laid	the
+
+
+
+The Curta calculator could also do multiplication and division.
+
+Trial model of a part of the Analytical Engine, built by Babbage, as displayed at the Science Museum, London
+
+groundwork		for mechanized	and automated computing.
+
+Industrial needs for precise, large-scale calculations- especially in fields such as navigation, engineering, and finance-prompted innovations in both design and function,
+
+A portion of Babbage's Difference Engine
+
+setting the stage for devices like Charles Babbage's difference engine (1822).[41][42] This mechanical device was intended to automate the calculation of polynomial functions and represented one of the
+earliest applications of computational logic.[43]
+Babbage, often regarded as the "father of the computer," envisioned a fully mechanical system of gears and wheels, powered by steam, capable of handling complex calculations that previously required intensive manual labor.[44] His difference engine, designed to aid navigational calculations, ultimately led
+him to conceive the analytical engine in 1833.[45] This concept, far more advanced than his difference engine, included an arithmetic logic unit, control flow through conditional branching and loops, and
+integrated memory.[46] Babbage's plans made his analytical engine the first general-purpose design that could be described as Turing-complete in modern terms.[47][48]
+
+The analytical engine was programmed using punched cards, a method adapted from the Jacquard loom invented by Joseph Marie Jacquard in 1804, which controlled textile patterns with a sequence of punched cards.[49] These cards became foundational in later computing systems as well.[50] Babbage's machine would have featured multiple output devices, including a printer, a curve plotter, and even a bell, demonstrating his ambition for versatile computational applications beyond simple arithmetic.[51]
+
+Ada Lovelace expanded on Babbage's vision by conceptualizing algorithms that could be executed by his machine.[52] Her notes on the analytical engine, written in the 1840s, are now recognized as the earliest examples of computer programming.[53] Lovelace saw potential in computers to go beyond numerical
+calculations, predicting that they might one day generate complex musical compositions or perform tasks like language processing.[54]
+
+Though Babbage's designs were never fully realized due to technical and financial challenges, they influenced a range of subsequent developments in computing hardware. Notably, in the 1890s, Herman Hollerith adapted the idea of punched cards for automated data processing, which was utilized in the U.S.
+Census and sped up data tabulation significantly, bridging industrial machinery with data processing.[55]
+
+The Industrial Revolution's advancements in mechanical systems demonstrated the potential for machines to conduct complex calculations, influencing engineers like Leonardo Torres Quevedo and Vannevar Bush in the early 20th century. Torres Quevedo designed an electromechanical machine with floating- point arithmetic,[56] while Bush's later work explored electronic digital computing.[57] By the mid-20th century, these innovations paved the way for the first fully electronic computers.[58]
+
+
+Analog computers
+
+
+
+In the first half of the 20th century, analog computers were considered by many to be the future of computing. These devices used the continuously changeable aspects of physical phenomena such as electrical, mechanical, or hydraulic quantities to model the problem being solved, in contrast to digital computers that represented varying quantities symbolically, as their numerical values change. As an analog computer does not use discrete values, but rather continuous values, processes cannot be reliably repeated with exact equivalence, as they can with Turing machines.[59]
+The first modern analog computer was a tide-predicting machine, invented by Sir William Thomson, later Lord Kelvin, in 1872. It used a system of pulleys and wires to automatically calculate predicted tide levels for a set period at a particular location and was of great utility to navigation in
+
+
+
+Sir William Thomson's third tide- predicting machine design, 1879-81
+
+shallow waters. His device was the foundation for further developments in analog computing.[60]
+
+The differential analyser, a mechanical analog computer designed to solve differential equations by integration using wheel-and-disc mechanisms, was conceptualized in 1876 by James Thomson, the brother of the more famous Lord Kelvin. He explored the possible construction of such calculators, but
+
+was stymied by the limited output torque of the ball-and-disk integrators.[61] In a differential analyzer, the output of one integrator drove the input of the next integrator, or a graphing output.
+A notable series of analog calculating machines were developed by Leonardo Torres Quevedo since 1895, including one that was able to compute the roots of arbitrary polynomials of order eight, including the complex ones, with a precision down to thousandths.[62][63][64]
+
+
+
+
+A Mk. I Drift Sight. The lever just in front of the bomb aimer's fingertips sets the altitude, the wheels near his knuckles set the wind and airspeed.
+
+An important advance in analog computing was the development of the first fire-control systems for long range ship gunlaying. When gunnery ranges increased dramatically in the late 19th century it was no longer a simple matter of calculating the proper aim point, given the flight times of the shells. Various spotters on board the ship would relay distance measures and observations to a central plotting station. There the fire direction teams fed in the location, speed and direction of the ship and its target, as well as various adjustments for Coriolis effect, weather effects on the air, and other adjustments; the computer would then output a firing solution, which would be fed to the turrets for laying. In 1912, British engineer Arthur Pollen developed the first electrically powered mechanical analogue computer (called at the time the Argo Clock). It was used by the Imperial Russian Navy in World War I. The alternative Dreyer Table fire control system was fitted to British capital ships by mid-1916.
+
+
+Mechanical devices were also used to aid the accuracy of aerial bombing. Drift Sight was the first such aid, developed by Harry Wimperis in 1916 for the Royal Naval Air Service; it measured the wind speed from the air, and used that measurement to calculate the wind's effects on the trajectory of the bombs. The system was later improved with the Course Setting Bomb Sight, and reached a climax with World War II
+bomb sights, Mark XIV bomb sight (RAF Bomber Command) and the Norden[65] (United States Army
+Air Forces).
+
+The art of mechanical analog computing reached its zenith with the differential analyzer,[66] built by H.
+L. Hazen and Vannevar Bush at MIT starting in 1927, which built on the mechanical integrators of James Thomson and the torque amplifiers invented by H. W. Nieman. A dozen of these devices were built before their obsolescence became obvious; the most powerful was constructed at the University of Pennsylvania's Moore School of Electrical Engineering, where the ENIAC was built.
+
+A fully electronic analog computer was built by Helmut Hölzer in 1942 at Peenemünde Army Research Center.[67][68][69]
+By the 1950s the success of digital electronic computers had spelled the end for most analog computing machines, but hybrid analog computers, controlled by digital electronics, remained in substantial use into the 1950s and 1960s, and later in some specialized applications.
+
+Advent of the digital computer
+
+
+
+The principle of the modern computer was first described by computer scientist Alan Turing, who set out the idea in his seminal 1936 paper,[70] On Computable Numbers. Turing reformulated Kurt Gödel's 1931 results on the limits of proof and computation, replacing Gödel's universal arithmetic- based formal language with the formal and simple hypothetical devices that became known as Turing machines. He proved that some such machine would be capable of performing any conceivable mathematical computation if it were representable as an algorithm. He went on to prove that there was no solution to the Entscheidungsproblem by first showing that the halting problem for Turing machines is undecidable: in general, it is not possible to decide algorithmically whether a given Turing machine will ever halt.
+
+
+
+Parts from four early computers, 1962. From left to right: ENIAC board, EDVAC board, ORDVAC board, and BRLESC-I board, showing the trend toward miniaturization.
+
+
+He also introduced the notion of a "universal machine" (now known as a universal Turing machine), with the idea that such a machine could perform the tasks of any other machine, or in other words, it is provably capable of computing anything that is computable by executing a program stored on tape, allowing the machine to be programmable. John von Neumann acknowledged that the central concept of
+the modern computer was due to this paper.[71] Turing machines are to this day a central object of study
+in theory of computation. Except for the limitations imposed by their finite memory stores, modern computers are said to be Turing-complete, which is to say, they have algorithm execution capability equivalent to a universal Turing machine.
+
+Electromechanical computers
+The era of modern computing began with a flurry of development before and during World War II. Most digital computers built in this period were built with electromechanical - electric switches drove mechanical relays to perform the calculation. These mechanical components had a low operating speed due to their mechanical nature and were eventually superseded by much faster all-electric components, originally using vacuum tubes and later transistors.
+
+The Z2 was one of the earliest examples of an electric operated digital computer built with electromechanical relays and was created by civil engineer Konrad Zuse in 1940 in Germany. It was an improvement on his earlier, mechanical Z1; although it used the same mechanical memory, it replaced the
+arithmetic and control logic with electrical relay circuits.[72]
+In the same year, electro-mechanical devices called bombes were built by British cryptologists to help decipher German Enigma-machine-encrypted secret messages during World War II. The bombe's initial design was created in 1939 at the UK Government Code and Cypher School at Bletchley Park by Alan
+Turing,[73] with an important refinement devised in 1940 by Gordon Welchman.[74] The engineering
+
+design and construction was the work of Harold Keen of the British Tabulating Machine Company. It was a substantial development from a device that had been designed in 1938 by Polish Cipher Bureau cryptologist Marian Rejewski, and known as the "cryptologic bomb" (Polish: "bomba kryptologiczna").
+In 1941, Zuse followed his earlier machine up with the Z3,[72] the world's first working electromechanical programmable, fully automatic digital computer.[75] The Z3 was built with
+2000 relays, implementing a 22-bit word length that operated at a clock frequency of about 5-10 Hz.[76] Program code and
+data were stored on punched film. It was quite similar to modern machines in some respects, pioneering numerous advances such as floating-point numbers. Replacement of the hard-to-implement  decimal  system  (used  in  Charles
+
+Replica of Zuse's Z3, the first fully automatic, digital (electromechanical) computer
+
+Babbage's earlier design) by the simpler binary system meant that Zuse's machines were easier to build and potentially more  reliable,  given  the  technologies  available  at  that
+time.[77] The Z3 was proven to have been a Turing-complete
+machine in 1998 by Raúl Rojas.[78] In two 1936 patent
+
+applications, Zuse also anticipated that machine instructions could be stored in the same storage used for data-the key insight of what became known as the von Neumann architecture, first implemented in 1948 in America in the electromechanical IBM SSEC and in Britain in the fully electronic Manchester
+Baby.[79]
+Zuse suffered setbacks during World War II when some of his machines were destroyed in the course of Allied bombing campaigns. Apparently his work remained largely unknown to engineers in the UK and US until much later, although at least IBM was aware of it as it financed his post-war startup company in 1946 in return for an option on Zuse's patents.
+In 1944, the Harvard Mark I was constructed at IBM's Endicott laboratories.[80] It was a similar general purpose electro-mechanical computer to the Z3, but was not quite Turing-complete.
+
+Digital computation
+The term digital was first suggested by George Robert Stibitz and refers to where a signal, such as a voltage, is not used to directly represent a value (as it would be in an analog computer), but to encode it. In November 1937, Stibitz, then working at Bell Labs (1930-1941),[81] completed a relay-based
+calculator he later dubbed the "Model K" (for "kitchen table", on which he had assembled it), which became the first binary adder.[82] Typically signals have two states - low (usually representing 0) and high (usually representing 1), but sometimes three-valued logic is used, especially in high-density
+memory. Modern computers generally use binary logic, but many early machines were decimal computers. In these machines, the basic unit of data was the decimal digit, encoded in one of several schemes, including binary-coded decimal or BCD, bi-quinary, excess-3, and two-out-of-five code.
+The mathematical basis of digital computing is Boolean algebra, developed by the British mathematician George Boole in his work The Laws of Thought, published in 1854. His Boolean algebra was further refined in the 1860s by William Jevons and Charles Sanders Peirce, and was first presented
+systematically by Ernst Schröder and A. N. Whitehead.[83] In 1879 Gottlob Frege developed the formal
+approach to logic and proposes the first logic language for logical equations.[84]
+
+In the 1930s and working independently, American electronic engineer Claude Shannon and Soviet logician Victor Shestakov both showed a one-to-one correspondence between the concepts of Boolean logic and certain electrical circuits, now called logic gates, which are now ubiquitous in digital
+computers.[85] They showed that electronic relays and switches can realize the expressions of Boolean
+algebra.[86] This thesis essentially founded practical digital circuit design. In addition Shannon's paper gives a correct circuit diagram for a 4 bit digital binary adder.[87]
+
+
+
+Electronic data processing
+Purely electronic circuit elements soon replaced their mechanical and electromechanical equivalents, at the same time that digital calculation replaced analog. Machines such as the Z3, the Atanasoff-Berry Computer, the Colossus computers, and the ENIAC were built by hand, using circuits containing relays or valves (vacuum tubes), and often used punched cards or punched paper tape for input and as the
+main (non-volatile) storage medium.[88]
+
+Engineer Tommy Flowers joined the telecommunications branch of the General Post Office in 1926. While working at the research station in Dollis Hill in the 1930s, he began to explore the possible use of electronics for the telephone exchange. Experimental equipment that he built in 1934 went into operation 5 years later, converting a portion of the telephone  exchange  network  into  an  electronic  data
+processing system, using thousands of vacuum tubes.[60]
+
+
+
+
+Atanasoff-Berry Computer replica at first floor of Durham Center, Iowa State University
+
+
+In the US, in 1940 Arthur Dickinson (IBM) invented the first digital electronic computer.[89] This calculating device was fully electronic - control, calculations and output (the first electronic display).[90] John Vincent Atanasoff and Clifford E. Berry of Iowa State University developed the Atanasoff-Berry
+Computer (ABC) in 1942,[91] the first binary electronic digital calculating device.[92] This design was
+semi-electronic (electro-mechanical control and electronic calculations), and used about 300 vacuum tubes, with capacitors fixed in a mechanically rotating drum for memory. However, its paper card writer/reader was unreliable and the regenerative drum contact system was mechanical. The machine's special-purpose nature and lack of changeable, stored program distinguish it from modern computers.[93]
+Computers whose logic was primarily built using vacuum tubes are now known as first generation computers.
+
+The electronic programmable computer
+During World War II, British codebreakers at Bletchley Park, 40 miles (64 km) north of London, achieved a number of successes at breaking encrypted enemy military communications. The German encryption machine, Enigma, was first attacked with the help of the electro-mechanical bombes.[94] They ruled out possible Enigma settings by performing chains of logical deductions implemented electrically. Most
+possibilities led to a contradiction, and the few remaining could be tested by hand.
+
+The Germans also developed a series of teleprinter encryption systems, quite different from Enigma. The Lorenz SZ 40/42 machine was used for high-level Army communications, code-named "Tunny" by the British. The first intercepts of Lorenz messages began in 1941. As part of an attack on Tunny, Max Newman and his colleagues developed the Heath Robinson,  a  fixed-function  machine  to  aid  in  code
+breaking.[95] Tommy Flowers, a senior engineer at the Post
+Office Research Station[96] was recommended to Max Newman by Alan Turing[97] and spent eleven months from early February 1943 designing and building the more flexible
+Colossus computer (which superseded the Heath Robinson).[98][99] After a functional test in December 1943, Colossus was shipped to Bletchley Park, where it was
+delivered on 18 January 1944[100] and attacked its first
+message  on  5  February.[101]  By  the  time  Germany
+
+
+
+Colossus was the first electronic digital programmable computing device, and was used to break German ciphers during World War II. It remained unknown, as a military secret, well into the 1970s.
+
+surrendered in May 1945, there were ten Colossi working at Bletchley Park.[102]
+
+
+
+
+Wartime photo of Colossus No. 10
+
+Colossus was the world's first electronic digital programmable computer.[60] It used a large number of valves (vacuum tubes). It had paper-tape input and was capable of being configured to perform a variety of Boolean logical operations on its data,[103] but it was not Turing-complete. Data input to Colossus was by photoelectric reading of a
+paper tape transcription of the enciphered intercepted message. This was arranged in a continuous loop so that it could be read and re-read multiple times - there being no internal store for the data. The reading mechanism ran at 5,000 characters per second with the paper tape moving at 40 ft/s (12.2 m/s; 27.3 mph). Colossus Mark 1 contained 1500
+
+thermionic valves (tubes), but Mark 2 with 2400 valves and five processors in parallel, was both 5 times faster and simpler to operate than Mark 1, greatly speeding the decoding process. Mark 2 was designed while Mark 1 was being constructed. Allen Coombs took over leadership of the Colossus Mark 2 project
+when Tommy Flowers moved on to other projects.[104] The first Mark 2 Colossus became operational on
+1 June 1944, just in time for the Allied Invasion of Normandy on D-Day.
+
+Most of the use of Colossus was in determining the start positions of the Tunny rotors for a message, which was called "wheel setting". Colossus included the first-ever use of shift registers and systolic arrays, enabling five simultaneous tests, each involving up to 100 Boolean calculations. This enabled five
+different possible start positions to be examined for one transit of the paper tape.[105] As well as wheel
+setting some later Colossi included mechanisms intended to help determine pin patterns known as "wheel breaking". Both models were programmable using switches and plug panels in a way their predecessors had not been.
+Without the use of these machines, the Allies would have been deprived of the very valuable intelligence that was obtained from reading the vast quantity of enciphered high-level telegraphic messages between the German High Command (OKW) and their army commands throughout occupied Europe. Details of
+
+their existence, design, and use were kept secret well into the 1970s. Winston Churchill personally issued an order for their destruction into pieces no larger than a man's hand, to keep secret that the British were capable of cracking Lorenz SZ cyphers (from German rotor stream cipher machines) during the oncoming Cold War. Two of the machines were transferred to the newly formed GCHQ and the others were destroyed. As a result, the machines were not included in many histories of computing.[g] A reconstructed working copy of one of the Colossus machines is now on display at Bletchley Park.
+The ENIAC (Electronic Numerical Integrator and Computer) was the first electronic programmable computer built in the US. Although the ENIAC used similar technology to the
+
+
+
+ENIAC was the first Turing-complete electronic device, and performed ballistics trajectory calculations for the United States Army.[106]
+
+Colossi, it was much faster and more flexible and was Turing-complete. Like the Colossi, a "program" on the ENIAC was defined by the states of its patch cables and switches, a far cry from the stored-program electronic machines that came later. Once a program was ready to be run, it had to be mechanically set into the machine with manual resetting of plugs and switches. The programmers of the ENIAC were
+women who had been trained as mathematicians.[107]
+It combined the high speed of electronics with the ability to be programmed for many complex problems. It could add or subtract 5000 times a second, a thousand times faster than any other machine. It also had modules to multiply, divide, and square root. High-speed memory was limited to 20 words (equivalent to about 80 bytes). Built under the direction of John Mauchly and J. Presper Eckert at the University of Pennsylvania, ENIAC's development and construction lasted from 1943 to full operation at the end of 1945. The machine was huge, weighing 30 tons, using 200 kilowatts of electric power and contained over
+18,000 vacuum tubes, 1,500 relays, and hundreds of thousands of resistors, capacitors, and inductors.[108]
+One of its major engineering feats was to minimize the effects of tube burnout, which was a common problem in machine reliability at that time. The machine was in almost constant use for the next ten years.
+
+
+Stored-program computer
+
+The theoretical basis for the stored-program computer was proposed by Alan Turing in his 1936 paper On Computable Numbers.[70] Whilst Turing was at Princeton University working on his PhD, John von Neumann got to know him and became intrigued by his concept of a universal computing machine.[109]
+
+Early computing machines executed the set sequence of steps, known as a 'program', that could be altered by changing electrical connections using switches or a patch panel (or plugboard). However, this process of 'reprogramming' was often difficult and time-consuming, requiring engineers to create flowcharts and physically re-wire the machines.[110] Stored-program computers, by contrast, were designed to store a set of instructions (a program), in memory - typically the same memory as stored data.
+
+ENIAC inventors John Mauchly and J. Presper Eckert proposed, in August 1944, the construction of a machine called the Electronic Discrete Variable Automatic Computer (EDVAC) and design work for it commenced at the University of Pennsylvania's Moore School of Electrical Engineering, before the
+
+ENIAC was fully operational. The design implemented a number of important architectural and logical improvements conceived during the ENIAC's construction, and a high-speed
+serial-access memory.[111] However, Eckert and Mauchly left
+the project and its construction floundered.
+
+In 1945, von Neumann visited the Moore School and wrote notes on what he saw, which he sent to the project. The U.S. Army liaison there had them typed and circulated as the First Draft of a Report on the EDVAC. The draft did not mention Eckert and Mauchly and, despite its incomplete nature and questionable lack of attribution of the sources of some of the
+ideas,[60] the computer architecture it outlined became known
+as the 'von Neumann architecture'.
+
+
+
+Design of the von Neumann architecture, 1947
+
+
+In 1945, Turing joined the UK National Physical Laboratory
+and began work on developing an electronic stored-program digital computer. His late-1945 report 'Proposed Electronic Calculator' was the first reasonably detailed specification for such a device. Turing presented a more detailed paper to the National Physical Laboratory (NPL) Executive Committee in March 1946, giving the first substantially complete design of a stored-program computer, a device that was called the Automatic Computing Engine (ACE).
+Turing considered that the speed and the size of computer memory were crucial elements,[112]:p.4 so he proposed a high-speed memory of what would today be called 25 KB, accessed at a speed of 1 MHz. The ACE implemented subroutine calls, whereas the EDVAC did not, and the ACE also used Abbreviated Computer Instructions, an early form of programming language.
+
+
+Manchester Baby
+
+A section of the rebuilt Manchester Baby, the first electronic stored-program computer
+
+
+several early computers.
+
+
+
+The Manchester Baby (Small Scale Experimental Machine, SSEM) was the world's first electronic stored-program computer. It was built at the Victoria University of Manchester by Frederic C. Williams, Tom Kilburn and Geoff Tootill, and ran its first program on 21 June 1948.[113]
+The machine was not intended to be a practical computer but was instead designed as a testbed for the Williams tube, the first random-access digital storage device.[114] Invented by
+Freddie Williams and Tom Kilburn[115][116] at the University
+of Manchester in 1946 and 1947, it was a cathode-ray tube that used an effect called secondary emission to temporarily store electronic binary data, and was used successfully in
+
+
+Described as small and primitive in a 1998 retrospective, the Baby was the first working machine to contain all of the elements essential to a modern electronic computer.[117] As soon as it had demonstrated the feasibility of its design, a project was initiated at the university to develop the design into a more
+
+usable computer, the Manchester Mark 1. The Mark 1 in turn quickly became the prototype for the Ferranti Mark 1, the world's first commercially available general-purpose computer.[118]
+The Baby had a 32-bit word length and a memory of 32 words. As it was designed to be the simplest possible stored-program computer, the only arithmetic operations implemented in hardware were subtraction and negation; other arithmetic operations were implemented in software. The first of three
+programs written for the machine found the highest proper divisor of 218 (262,144), a calculation that was
+known would take a long time to run-and so prove the computer's reliability-by testing every integer from 218 - 1 downwards, as division was implemented by repeated subtraction of the divisor. The program consisted of 17 instructions and ran for 52 minutes before reaching the correct answer of 131,072, after the Baby had performed 3.5 million operations (for an effective CPU speed of 1.1 kIPS). The successive approximations to the answer were displayed as a pattern of dots on the output CRT which mirrored the pattern held on the Williams tube used for storage.
+
+Manchester Mark 1
+The SSEM led to the development of the Manchester Mark 1 at the University of Manchester.[119] Work began in August 1948, and the first version was operational by April 1949; a program written to search for Mersenne primes ran error-free for nine hours on the night of 16/17 June 1949. The machine's successful operation was widely reported in the British press, which used the phrase "electronic brain" in describing it to their readers.
+
+The computer is especially historically significant because of its pioneering inclusion of index registers, an innovation which made it easier for a program to read sequentially through an array of words in memory. Thirty-four patents resulted from the machine's development, and many of the ideas behind its design were incorporated in subsequent commercial products such as the IBM 701 and 702 as well as the Ferranti Mark 1. The chief designers, Frederic C. Williams and Tom Kilburn, concluded from their experiences with the Mark 1 that computers would be used more in scientific roles than in pure mathematics. In 1951 they started development work on Meg, the Mark 1's successor, which would include a floating-point unit.
+
+
+EDSAC
+The other contender for being the first recognizably modern digital stored-program computer[120] was the EDSAC,[121] designed and constructed by Maurice Wilkes and his team at the University of Cambridge Mathematical Laboratory in
+England at the University of Cambridge in 1949. The machine was inspired by John von Neumann's seminal First Draft of a Report on the EDVAC and was one of the first usefully operational electronic digital stored-program computers.[h]
+EDSAC ran its first programs on 6 May 1949, when it calculated  a  table  of  squares[124]  and  a  list  of  prime
+
+
+
+
+EDSAC
+
+numbers.The EDSAC also served as the basis for the first commercially applied computer, the LEO I,
+
+used by food manufacturing company J. Lyons & Co. Ltd. EDSAC 1 was finally shut down on 11 July 1958, having been superseded by EDSAC 2 which stayed in use until 1965.[125]
+
+The "brain" [computer] may one day come down to our level [of the common people] and help with our income-tax and book-keeping calculations. But this is speculation and there is no sign of it so far.
+
+-British newspaper The Star in a June 1949 news article about the EDSAC computer, long before the era of the personal computers.[126]
+
+
+EDVAC
+ENIAC inventors John Mauchly and J. Presper Eckert proposed the EDVAC's construction in August 1944, and design work for the EDVAC commenced at the University of Pennsylvania's Moore School of Electrical Engineering, before the ENIAC was fully operational. The design implemented a number of important architectural and logical improvements conceived during the ENIAC's construction, and a high- speed serial-access memory.[111] However, Eckert and Mauchly left the project and its construction floundered.
+
+It was finally delivered to the U.S. Army's Ballistics Research Laboratory at the Aberdeen Proving Ground in August 1949, but due to a number of problems, the computer only began operation in 1951, and then only on a limited basis.
+
+
+
+
+EDVAC
+
+
+Commercial computers
+The first commercial electronic computer was the Ferranti Mark 1, built by Ferranti and delivered to the University of Manchester in February 1951. It was based on the Manchester Mark 1. The main improvements over the Manchester Mark 1 were in the size of the primary storage (using random access Williams tubes), secondary storage (using a magnetic drum), a faster multiplier, and additional instructions. The basic cycle time was 1.2 milliseconds, and a multiplication could be completed in about
+2.16 milliseconds. The multiplier used almost a quarter of the machine's 4,050 vacuum tubes (valves).[127] A second machine was purchased by the University of Toronto, before the design was revised into the Mark 1 Star. At least seven of these later machines were delivered between 1953 and 1957, one of them to Shell labs in Amsterdam.[128]
+In October 1947, the directors of J. Lyons & Company, a British catering company famous for its teashops but with strong interests in new office management techniques, decided to take an active role in promoting the commercial development of computers. The LEO I computer (Lyons Electronic Office)
+became operational in April 1951[129] and ran the world's first regular routine office computer job. On 17
+November 1951, the J. Lyons company began weekly operation of a bakery valuations job on the LEO - the first business application to go live on a stored-program computer.[i]
+
+In June 1951, the UNIVAC I (Universal Automatic Computer) was delivered to the U.S. Census Bureau. Remington Rand eventually sold 46 machines at more than US$1 million each ($12.1 million as of 2024).[130] UNIVAC was the first "mass-produced" computer. It used 5,200 vacuum tubes and consumed 125 kW of power. Its primary storage was serial-access mercury delay lines capable of storing 1,000 words of 11 decimal digits plus sign (72-bit words).
+
+In 1952, Compagnie des Machines Bull released the Gamma 3 computer, which became a large success in Europe, eventually selling more than 1,200 units, and the first computer produced in more than 1,000 units.[131] The Gamma 3 had innovative features for its time including a dual-mode, software switchable, BCD and binary ALU, as well as a hardwired floating-point library for scientific computing.[131] In its
+E.T configuration, the Gamma 3 drum memory could fit about 50,000 instructions for a capacity of 16,384 words (around 100 kB), a large amount for the time.[131]
+
+
+Compared to the UNIVAC, IBM introduced a smaller, more affordable computer in 1954 that proved very popular.[j][133]
+The IBM 650 weighed over 900 kg, the attached power supply weighed around 1350 kg and both were held in separate cabinets of roughly 1.5 × 0.9 × 1.8 m. The system
+cost US$500,000[134] ($5.85 million as of 2024) or could be
+leased for US$3,500 a month ($40,000 as of 2024).[130] Its drum memory was originally 2,000 ten-digit words, later expanded to 4,000 words. Memory limitations such as this were to dominate programming for decades afterward. The program instructions were fetched from the spinning drum as the code ran. Efficient execution using drum memory was provided by a combination of hardware architecture - the instruction format included the address of the next instruction - and software: the Symbolic Optimal Assembly Program,
+SOAP,[135] assigned instructions to the optimal addresses (to
+
+
+
+Front panel of the IBM 650
+
+the extent possible by static analysis of the source program). Thus many instructions were, when needed, located in the next row of the drum to be read and additional wait time for drum rotation was reduced.
+
+Microprogramming
+In 1951, British scientist Maurice Wilkes developed the concept of microprogramming from the realisation that the central processing unit of a computer could be controlled by a miniature, highly specialized computer program in high-speed ROM. Microprogramming allows the base instruction set to be defined or extended by built-in programs (now called firmware or microcode).[136] This concept greatly simplified CPU development. He first described this at the University of Manchester Computer Inaugural Conference in 1951, then published in expanded form in IEEE Spectrum in 1955.
+
+It was widely used in the CPUs and floating-point units of mainframe and other computers; it was implemented for the first time in EDSAC 2,[137] which also used multiple identical "bit slices" to simplify design. Interchangeable, replaceable tube assemblies were used for each bit of the processor.[k]
+
+Magnetic memory
+
+
+
+Magnetic drum memories were developed for the US Navy during WW II with the work continuing at Engineering Research Associates (ERA) in 1946 and 1947. ERA, then a part of Univac included a drum memory in its 1103, announced in February 1953. The first mass-produced computer, the IBM 650, also announced in 1953 had about
+8.5 kilobytes of drum memory.
+
+Magnetic-core memory patented in 1949[139] with its first usage demonstrated for the Whirlwind computer in August 1953.[140]  Commercialization followed quickly. Magnetic
+core was used in peripherals of the IBM 702 delivered in July 1955, and later in the 702 itself. The IBM 704 (1955) and the Ferranti Mercury (1957) used magnetic-core memory. It went on to dominate the field into the 1970s, when it was replaced with semiconductor memory. Magnetic core peaked in volume about 1975 and declined in usage and market share thereafter.[141]
+
+
+
+Diagram of a 4×4 plane of magnetic-core memory in an X/Y line coincident-current setup. X and Y are drive lines, S is sense, Z is inhibit. Arrows indicate the direction of current for writing.
+
+
+As late as 1980, PDP-11/45 machines using magnetic-core main memory and drums for swapping were still in use at many of the original UNIX sites.
+
+Early digital computer characteristics
+
+
+Defining characteristics of some early digital computers of the 1940s (In the history of computing hardware)
+
+Name   First operationalNumeral systemComputing mechanismProgramming Turing- completeArthur H. Dickinson IBM (US)
+Jan 1940
+Decimal
+Electronic
+Not programmable
+NoJoseph Desch NCR (US)March 1940DecimalElectronicNot programmableNo
+Zuse Z3
+(Germany)
+May 1941Binary floating point
+Electro- mechanicalProgram-controlled by punched 35 mm film stock (but no conditional branch)
+In theory (1998)Atanasoff- Berry Computer (US)
+1942
+Binary
+ElectronicNot programmable - single purpose
+NoColossus Mark 1 (UK)Feb 1944BinaryElectronicProgram-controlled by patch cables and switchesNo
+Harvard Mark I - IBM ASCC (US)
+May 1944
+Decimal
+Electro- mechanicalProgram-controlled by 24- channel punched paper tape (but no conditional branch)
+DebatableColossus Mark 2 (UK)June 1944BinaryElectronicProgram-controlled by patch cables and switchesConjectured[142]Zuse Z4
+(Germany)
+March 1945Binary floating pointElectro- mechanicalProgram-controlled by punched 35 mm film stock
+In 1950ENIAC (US)December
+1945DecimalElectronicProgram-controlled by patch cables and switchesYes
+Modified ENIAC (US)
+April 1948
+Decimal
+ElectronicRead-only stored- programming mechanism using the Function Tables as program ROM
+YesARC2 (SEC)
+(UK)May 1948BinaryElectronicStored-program in rotating drum memoryYesManchester Baby (UK)
+June 1948
+Binary
+ElectronicStored-program in Williams cathode-ray tube memory
+Yes
+Manchester Mark 1 (UK)
+April 1949
+Binary
+ElectronicStored-program in Williams cathode-ray tube memory and magnetic drum memory
+Yes
+EDSAC (UK)
+May 1949
+Binary
+ElectronicStored-program in mercury delay-line memory
+YesCSIRAC
+(Australia)
+Nov 1949
+Binary
+ElectronicStored-program in mercury delay-line memory
+Yes
+Transistor computers
+
+
+
+
+
+A bipolar junction transistor
+
+The bipolar transistor was invented in 1947. From 1955 onward transistors replaced vacuum tubes in computer designs,[143] giving rise to the "second generation" of computers. Compared to vacuum tubes, transistors have many advantages: they are smaller, and require less power than vacuum tubes, so give off less heat. Silicon junction transistors were much more reliable than vacuum tubes and had longer service life. Transistorized computers could contain tens of thousands of binary logic circuits in a relatively compact space. Transistors greatly reduced computers' size, initial cost, and operating cost. Typically, second-generation  computers  were  composed  of  large
+
+numbers of printed circuit boards such as the IBM Standard Modular System,[144] each carrying one to
+four logic gates or flip-flops.
+
+At the University of Manchester, a team under the leadership of Tom Kilburn designed and built a machine using the newly developed transistors instead of valves. Initially the only devices available were germanium point-contact transistors, less reliable than the valves they replaced but which consumed far
+less power.[145] Their first transistorized computer, and the first in the world, was operational by
+1953,[146] and a second version was completed there in April 1955.[146] The 1955 version used 200 transistors, 1,300 solid-state diodes, and had a power consumption of 150 watts. However, the machine did make use of valves to generate its 125 kHz clock waveforms and in the circuitry to read and write on its magnetic drum memory, so it was not the first completely transistorized computer.
+That distinction goes to the Harwell CADET of 1955,[147] built by the electronics division of the Atomic Energy Research Establishment at Harwell. The design featured a 64-kilobyte magnetic drum memory store with multiple moving heads that had been designed at the National Physical Laboratory, UK. By 1953 this team had transistor circuits operating to read and write on a smaller magnetic drum from the Royal Radar Establishment. The machine used a low clock speed of only 58 kHz to avoid having to use
+any valves to generate the clock waveforms.[148][147]
+
+CADET used 324-point-contact transistors provided by the UK company Standard Telephones and Cables; 76 junction transistors were used for the first stage amplifiers for data read from the drum, since point-contact transistors were too noisy. From August 1956, CADET was offering a regular computing
+service, during which it often executed continuous computing runs of 80 hours or more.[149][150]
+Problems with the reliability of early batches of point contact and alloyed junction transistors meant that the machine's mean time between failures was about 90 minutes, but this improved once the more reliable bipolar junction transistors became available.[151]
+The Manchester University Transistor Computer's design was adopted by the local engineering firm of Metropolitan-Vickers in their Metrovick 950, the first commercial transistor computer anywhere.[152] Six Metrovick 950s were built, the first completed in 1956. They were successfully deployed within various
+
+departments of the company and were in use for about five years.[146] A second generation computer, the IBM 1401, captured about one third of the world market. IBM installed more than ten thousand 1401s between 1960 and 1964.
+
+Transistor peripherals
+Transistorized electronics improved not only the CPU (Central Processing Unit), but also the peripheral devices. The second generation disk data storage units were able to store tens of millions of letters and digits. Next to the fixed disk storage units, connected to the CPU via high-speed data transmission, were removable disk data storage units. A removable disk pack can be easily exchanged with another pack in a few seconds. Even if the removable disks' capacity is smaller than fixed disks, their interchangeability guarantees a nearly unlimited quantity of data close at hand. Magnetic tape provided archival capability for this data, at a lower cost than disk.
+
+Many second-generation CPUs delegated peripheral device communications to a secondary processor. For example, while the communication processor controlled card reading and punching, the main CPU executed calculations and binary branch instructions. One databus would bear data between the main CPU and core memory at the CPU's fetch-execute cycle rate, and other databusses would typically serve the peripheral devices. On the PDP-1, the core memory's cycle time was 5 microseconds; consequently most arithmetic instructions took 10 microseconds (100,000 operations per second) because most operations took at least two memory cycles; one for the instruction, one for the operand data fetch.
+
+During the second generation remote terminal units (often in the form of Teleprinters like a Friden Flexowriter) saw greatly increased use.[l] Telephone connections provided sufficient speed for early
+remote terminals and allowed hundreds of kilometers separation between remote-terminals and the computing center. Eventually these stand-alone computer networks would be generalized into an interconnected network of networks-the Internet.[m]
+
+
+Transistor supercomputers
+The early 1960s saw the advent of supercomputing. The Atlas was a joint development between the University of Manchester, Ferranti, and Plessey, and was first installed at Manchester University and officially commissioned in 1962 as one of the world's first supercomputers - considered to be
+the most powerful computer in the world at that time.[155] It
+was said that whenever Atlas went offline half of the United Kingdom's computer capacity was lost.[156] It was a second-
+generation machine, using discrete germanium transistors. Atlas also pioneered the Atlas Supervisor, "considered by many to be the first recognisable modern operating system".[157]
+
+
+
+
+The University of Manchester Atlas in January 1963
+
+
+In the US, a series of computers at Control Data Corporation (CDC) were designed by Seymour Cray to use innovative designs and parallelism to achieve superior computational peak performance.[158] The CDC 6600, released in 1964, is generally considered the first supercomputer.[159][160] The CDC 6600
+
+outperformed its predecessor, the IBM 7030 Stretch, by about a factor of 3. With performance of about 1 megaFLOPS, the CDC 6600 was the world's fastest computer from 1964 to 1969, when it relinquished that status to its successor, the CDC 7600.
+
+
+Integrated circuit computers
+
+The "third-generation" of digital electronic computers used integrated circuit (IC) chips as the basis of their logic.
+
+The idea of an integrated circuit was conceived by a radar scientist working for the Royal Radar Establishment of the Ministry of Defence, Geoffrey W.A. Dummer.
+
+The first working integrated circuits were invented by Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor.[161] Kilby recorded his initial ideas concerning the integrated circuit in July 1958, successfully demonstrating the first working integrated example on 12 September 1958.[162] Kilby's invention was a hybrid integrated circuit (hybrid IC).[163] It had external wire connections, which made it difficult to mass-produce.[164]
+Noyce came up with his own idea of an integrated circuit half a year after Kilby.[165] Noyce's invention was a monolithic integrated circuit (IC) chip.[166][164] His chip solved many practical problems that Kilby's had not. Produced at Fairchild Semiconductor, it was made of silicon, whereas Kilby's chip was made of germanium. The basis for Noyce's monolithic IC was Fairchild's planar process, which allowed integrated circuits to be laid out using the same principles as those of printed circuits. The planar process was developed by Noyce's colleague Jean Hoerni in early 1959, based on Mohamed M. Atalla's work on semiconductor surface passivation by silicon dioxide at Bell Labs in the late 1950s.[167][168][169]
+Third generation (integrated circuit) computers first appeared in the early 1960s in computers developed for government purposes, and then in commercial computers beginning in the mid-1960s. The first silicon IC computer was the Apollo Guidance Computer or AGC.[170] Although not the most powerful computer
+of its time, the extreme constraints on size, mass, and power of the Apollo spacecraft required the AGC to be much smaller and denser than any prior computer, weighing in at only 70 pounds (32 kg). Each lunar landing mission carried two AGCs, one each in the command and lunar ascent modules.
+
+
+Semiconductor memory
+
+The MOSFET (metal-oxide-semiconductor field-effect transistor, or MOS transistor) was invented by Mohamed M. Atalla and Dawon Kahng at Bell Labs in 1959.[171] In addition to data processing, the
+MOSFET enabled the practical use of MOS transistors as memory cell storage elements, a function previously served by magnetic cores. Semiconductor memory, also known as MOS memory, was cheaper and consumed less power than magnetic-core memory.[172] MOS random-access memory (RAM), in the form of static RAM (SRAM), was developed by John Schmidt at Fairchild Semiconductor in 1964.[172][173] In 1966, Robert Dennard at the IBM Thomas J. Watson Research Center developed MOS dynamic RAM (DRAM).[174] In 1967, Dawon Kahng and Simon Sze at Bell Labs developed the floating-
+gate MOSFET, the basis for MOS non-volatile memory such as EPROM, EEPROM and flash memory.[175][176]
+
+Microprocessor computers
+
+The "fourth-generation" of digital electronic computers used microprocessors as the basis of their logic. The microprocessor has origins in the MOS integrated circuit (MOS IC) chip.[177] Due to rapid MOSFET scaling, MOS IC chips rapidly increased in complexity at a rate predicted by Moore's law, leading to large-scale integration (LSI) with hundreds of transistors on a single MOS chip by the late 1960s. The
+application of MOS LSI chips to computing was the basis for the first microprocessors, as engineers began recognizing that a complete computer processor could be contained on a single MOS LSI chip.[177]
+
+The subject of exactly which device was the first microprocessor is contentious, partly due to lack of agreement on the exact definition of the term "microprocessor". The earliest multi-chip microprocessors were the Four-Phase Systems AL-1 in 1969 and Garrett AiResearch MP944 in 1970, developed with multiple MOS LSI chips.[177] The first single-chip microprocessor was the Intel 4004,[178] developed on a single PMOS LSI chip.[177] It was designed and realized by Ted Hoff, Federico Faggin, Masatoshi Shima and Stanley Mazor at Intel, and released in 1971.[n] Tadashi Sasaki and Masatoshi Shima at Busicom, a calculator manufacturer, had the initial insight that the CPU could be a single MOS LSI chip, supplied by Intel.[180][178]
+While the earliest microprocessor ICs literally contained only the processor, i.e. the central processing unit, of a computer, their progressive development naturally led to chips containing most or all of the internal electronic parts of a computer. The integrated circuit in the image on the right, for example, an Intel 8742, is an 8-bit microcontroller that includes a CPU running at 12 MHz, 128 bytes of RAM, 2048 bytes of EPROM, and I/O in the same chip.
+
+
+During the 1960s, there was considerable overlap between second  and  third  generation  technologies.[o]   IBM
+implemented its IBM Solid Logic Technology modules in hybrid circuits for the IBM System/360 in 1964. As late as 1975, Sperry Univac continued the manufacture of second- generation  machines  such  as  the  UNIVAC  494.  The
+
+
+The die from an Intel 8742, an 8-bit microcontroller that includes a CPU running at 12 MHz, RAM, EPROM, and I/O
+
+Burroughs large systems such as the B5000 were stack machines, which allowed for simpler programming. These pushdown automatons were also implemented in minicomputers and microprocessors later, which influenced programming language design. Minicomputers served as low-
+cost computer centers for industry, business and universities.[181] It became possible to simulate analog
+circuits with the simulation program with integrated circuit emphasis, or SPICE (1971) on minicomputers, one of the programs for electronic design automation (EDA). The microprocessor led to the development of microcomputers, small, low-cost computers that could be owned by individuals and small businesses. Microcomputers, the first of which appeared in the 1970s, became ubiquitous in the 1980s and beyond.
+
+While which specific product is considered the first microcomputer system is a matter of debate, one of the earliest is R2E's Micral N (François Gernelle, André Truong) launched "early 1973" using the Intel 8008.[182] The first commercially available microcomputer kit was the Intel 8080-based Altair 8800,
+
+which was announced in the January 1975 cover article of Popular Electronics. However, the Altair 8800 was an extremely limited system in its initial stages, having only 256 bytes of DRAM in its initial package and no input-output except its toggle switches and LED register display. Despite this, it was initially surprisingly popular, with several hundred sales in the first year, and demand rapidly outstripped supply. Several early third-party vendors such as Cromemco and Processor Technology soon began supplying additional S-100 bus hardware for the Altair 8800.
+
+In April 1975, at the Hannover Fair, Olivetti presented the P6060, the world's first complete, pre-assembled personal computer system. The central processing unit consisted of
+
+
+
+Altair 8800
+
+two cards, code named PUCE1 and PUCE2, and unlike most other personal computers was built with TTL components rather than a microprocessor. It had one or two 8" floppy disk drives, a 32-character plasma display, 80-column graphical thermal printer, 48 Kbytes of RAM, and BASIC language. It weighed 40 kg (88 lb). As a complete system, this was a significant step from the Altair, though it never achieved the same success. It was in competition with a similar product by IBM that had an external floppy disk drive.
+From 1975 to 1977, most microcomputers, such as the MOS Technology KIM-1, the Altair 8800, and some versions of the Apple I, were sold as kits for do-it-yourselfers. Pre-assembled systems did not gain much ground until 1977, with the introduction of the Apple II, the Tandy TRS-80, the first SWTPC computers, and the Commodore PET. Computing has evolved with microcomputer architectures, with features added from their larger brethren, now dominant in most market segments.
+A NeXT Computer and its object-oriented development tools and libraries were used by Tim Berners-Lee and Robert Cailliau at CERN to develop the world's first web server software, CERN httpd, and also used to write the first web browser, WorldWideWeb.
+Systems as complicated as computers require very high reliability. ENIAC remained on, in continuous operation from 1947 to 1955, for eight years before being shut down. Although a vacuum tube might fail, it would be replaced without bringing down the system. By the simple strategy of never shutting down ENIAC, the failures were dramatically reduced. The vacuum-tube SAGE air-defense computers became remarkably reliable - installed in pairs, one off-line, tubes likely to fail did so when the computer was intentionally run at reduced power to find them. Hot-pluggable hard disks, like the hot-pluggable vacuum tubes of yesteryear, continue the tradition of repair during continuous operation. Semiconductor memories routinely have no errors when they operate, although operating systems like Unix have employed memory tests on start-up to detect failing hardware. Today, the requirement of reliable performance is made even more stringent when server farms are the delivery platform.[183] Google has managed this by using fault-tolerant software to recover from hardware failures, and is even working on the concept of replacing entire server farms on-the-fly, during a service event.[184][185]
+In the 21st century, multi-core CPUs became commercially available.[186] Content-addressable memory (CAM)[187] has become inexpensive enough to be used in networking, and is frequently used for on-chip
+cache memory in modern microprocessors, although no computer system has yet implemented hardware CAMs for use in programming languages. Currently, CAMs (or associative arrays) in software are
+
+programming-language-specific. Semiconductor memory cell arrays are very regular structures, and manufacturers prove their processes on them; this allows price reductions on memory products. During the 1980s, CMOS logic gates developed into devices that could be made as fast as other circuit types; computer power consumption could therefore be decreased dramatically. Unlike the continuous current draw of a gate based on other logic types, a CMOS gate only draws significant current, except for leakage, during the 'transition' between logic states.[188]
+CMOS circuits have allowed computing to become a commercial product which is now ubiquitous, embedded in many forms, from greeting cards and telephones to satellites. The thermal design power which is dissipated during operation has become as essential as computing speed of operation. In 2006
+servers consumed 1.5% of the total U.S. electricity consumption.[189] The energy consumption of
+computer data centers was expected to double to 3% of world consumption by 2011. The SoC (system on a chip) has compressed even more of the integrated circuitry into a single chip; SoCs are enabling phones and PCs to converge into single hand-held wireless mobile devices.[190]
+
+Quantum computing is an emerging technology in the field of computing. MIT Technology Review reported 10 November 2017 that IBM has created a 50-qubit computer; currently its quantum state lasts 50 microseconds.[191] Google researchers have been able to extend the 50 microsecond time limit, as
+reported 14 July 2021 in Nature;[192] stability has been extended 100-fold by spreading a single logical
+qubit over chains of data qubits for quantum error correction.[192] Physical Review X reported a technique for 'single-gate sensing as a viable readout method for spin qubits' (a singlet-triplet spin state in silicon) on 26 November 2018.[193] A Google team has succeeded in operating their RF pulse modulator chip at
+3 kelvins, simplifying the cryogenics of their 72-qubit computer, which is set up to operate at 0.3 K; but the readout circuitry and another driver remain to be brought into the cryogenics.[194][p] See: Quantum supremacy[196][197] Silicon qubit systems have demonstrated entanglement at non-local distances.[198]
+
+Computing hardware and its software have even become a metaphor for the operation of the universe.[199]
+
+
+Epilogue
+
+An indication of the rapidity of development of this field can be inferred from the history of the seminal 1947 article by Burks, Goldstine and von Neumann.[200] By the time that anyone had time to write anything down, it was obsolete. After 1945, others read John von Neumann's First Draft of a Report on
+the EDVAC, and immediately started implementing their own systems. To this day, the rapid pace of development has continued, worldwide.[q][r]
+
+
+See also
+
+
+Antikythera mechanism History of computing
+History of computing hardware (1960s-present) History of laptops
+History of personal computers History of software
+
+Information Age IT History Society Retrocomputing
+Timeline of computing
+List of pioneers in computer science Vacuum-tube computer
+
+Notes
+
+a. The Ishango bone is a bone tool, dated to the Upper Paleolithic era, about 18,000 to 20,000 BC. It is a dark brown length of bone, the fibula of a baboon. It has a series of tally
+marks carved in three columns running the length of the tool. It was found in 1960 in Belgian Congo.[1]
+b. According to Schmandt-Besserat 1981, these clay containers contained tokens, the total of which were the count of objects being transferred. The containers thus served as something of a bill of lading or an accounts book. In order to avoid breaking open the containers, first, clay impressions of the tokens were placed on the outside of the containers, for the count; the shapes of the impressions were abstracted into stylized marks; finally, the abstract marks were systematically used as numerals; these numerals were finally formalized as numbers. Eventually (Schmandt-Besserat estimates it took 5000 years.[5]) the marks on the outside of the containers were all that were needed to convey the count, and the clay containers evolved into clay tablets with marks for the count.
+c. Robson has recommended at least one supplement to Schmandt-Besserat (1981), e.g., a review, Englund, R. (1993). "The origins of script". Science. 260 (5114): 1670-1671. doi:10.1126/science.260.5114.1670 (https://doi.org/10.1126%2Fscience.260.5114.1670). PMID 17810210 (https://pubmed.ncbi.nlm.nih.gov/17810210).[7]
+d. A Spanish implementation of Napier's bones (1617), is documented in Montaner & Simon 1887, pp. 19-20.
+e. All nine machines are described in Vidal & Vogt 2011.
+f. Binary-coded decimal (BCD) is a numeric representation, or character encoding, which is still widely used.
+g. The existence of Colossus was kept secret by the UK Government for 30 years and so was not known to American computer scientists, such as Gordon Bell and Allen Newell. And was not in Bell & Newell (1971) Computing Structures, a standard reference work in the 1970s.
+h. The Manchester Baby predated EDSAC as a stored-program computer, but was built as a test bed for the Williams tube and not as a machine for practical use.[122] However, the Manchester Mark 1 of 1949 (not to be confused with the 1948 prototype, the Baby) was available for university research in April 1949 despite being still under development.[123]
+i. Martin 2008, p. 24 notes that David Caminer (1915-2008) served as the first corporate electronic systems analyst, for this first business computer system. LEO would calculate an employee's pay, handle billing, and other office automation tasks.
+j. For example, Kara Platoni's article on Donald Knuth stated that "there was something special about the IBM 650".[132]
+k. The microcode was implemented as extracode on Atlas.[138]
+l. Allen Newell used remote terminals to communicate cross-country with the RAND computers.[153]
+
+m. Bob Taylor conceived of a generalized protocol to link together multiple networks to be viewed as a single session regardless of the specific network: "Wait a minute. Why not just have one terminal, and it connects to anything you want it to be connected to? And, hence, the Arpanet was born."[154]
+n. The Intel 4004 (1971) die was 12 mm2, composed of 2300 transistors; by comparison, the Pentium Pro was 306 mm2, composed of 5.5 million transistors.[179]
+o. In the defense field, considerable work was done in the computerized implementation of equations such as Kalman 1960, pp. 35-45.
+p. IBM's 127-qubit computer cannot be simulated on traditional computers.[195]
+q. DBLP summarizes the Annals of the History of Computing, year by year, back to 1979.[201]
+r. The fastest supercomputer of the top 500 is now Frontier (of Oak Ridge National Laboratory) at 1.102 ExaFlops,[202] which is 2.66 times faster than Fugaku, now number two of the top 500.[203]
+1. Schultz, Phill (7 September 1999). "A very brief history of pure mathematics: The Ishango Bone" (https://web.archive.org/web/20080721075947/http://www.maths.uwa.edu.au/~schult z/3M3/history.html). University of Western Australia School of Mathematics. Archived from the original (https://www.maths.uwa.edu.au/~schultz/3M3/history.html) on 2008-07-21.
+2. Selin, Helaine (12 March 2008). Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures (https://books.google.com/books?id=kt9DIY1g9HYC&pg
+
+=PA1356). Springer Science & Business Media. p. 1356. Bibcode:2008ehst.book.	S (http
+s://ui.adsabs.harvard.edu/abs/2008ehst.book.....S). ISBN 978-1-4020-4559-2. Retrieved 2020-05-27.
+3. Pegg, Ed Jr. "Lebombo Bone" (https://mathworld.wolfram.com/LebomboBone.html).
+MathWorld.
+4. Darling, David (2004). The Universal Book of Mathematics From Abracadabra to Zeno's Paradoxes. John Wiley & Sons. ISBN 978-0-471-27047-8.
+5. Schmandt-Besserat, Denise. "The Evolution of Writing" (https://sites.utexas.edu/dsb/files/20 14/01/evolution_writing.pdf) (PDF). Archived (https://web.archive.org/web/20120130084757/ http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html) from the original on 2012-01- 30.
+6. Robson, Eleanor (2008). Mathematics in Ancient Iraq. Princeton University Press.
+ISBN 978-0-691-09182-2. p. 5: "calculi were in use in Iraq for primitive accounting systems as early as 3200-3000 BCE, with commodity-specific counting representation systems.
+Balanced accounting was in use by 3000-2350 BCE, and a sexagesimal number system was in use 2350-2000 BCE."
+7. Robson, Eleanor. "Bibliography of Mesopotamian Mathematics" (https://web.archive.org/we b/20160616161807/http://it.stlawu.edu/~dmelvill/mesomath/erbiblio.html#genhist). Archived from the original (https://it.stlawu.edu/~dmelvill/mesomath/erbiblio.html#genhist) on 2016- 06-16. Retrieved 2016-07-06.
+8. Lazos 1994.
+9. Sharkey, Noel (4 July 2007), A programmable robot from 60 AD (https://web.archive.org/we b/20171213205451/https://www.newscientist.com/blog/technology/2007/07/programmable-r obot-from-60ad.html), vol. 2611, New Scientist, archived from the original (https://www.news cientist.com/blog/technology/2007/07/programmable-robot-from-60ad.html) on 2017-12-13
+10. Koetsier, Teun (2001), "On the prehistory of programmable machines: musical automata, looms, calculators", Mechanism and Machine Theory, 36 (5), Elsevier: 589-603, doi:10.1016/S0094-114X(01)00005-2 (https://doi.org/10.1016%2FS0094-114X%2801%290 0005-2).
+
+11. "Episode 11: Ancient Robots" (https://web.archive.org/web/20140301151115/https://www.yo utube.com/watch?v=rxjbaQl0ad8), Ancient Discoveries, History Channel, archived from the original (https://www.youtube.com/watch?v=rxjbaQl0ad8) on 2014-03-01, retrieved
+2008-09-06
+12. Turner, Howard R. (1997). Science in Medieval Islam: An Illustrated Introduction. Austin: University of Texas press. p. 184. ISBN 978-0-292-78149-8.
+13. Hill, Donald Routledge (May 1991). "Mechanical Engineering in the Medieval Near East". Scientific American. pp. 64-69. (cf. Hill, Donald Routledge. "IX. Mechanical Engineering" (htt ps://web.archive.org/web/20071225091836/http://home.swipnet.se/islam/articles/HistoryofS ciences.htm). History of Sciences in the Islamic World. Archived from the original (http://hom e.swipnet.se/islam/articles/HistoryofSciences.htm) on 2007-12-25.)
+14. Kells, Kern & Bland 1943, p. 92.
+15. Kells, Kern & Bland 1943, p. 82.
+16. Meli, Domenico Bertolini (1992). "Guidobaldo Dal Monte and the Archimedean Revival". Nuncius. 7 (1): 3-34. doi:10.1163/182539192x00019 (https://doi.org/10.1163%2F18253919 2x00019).
+17. Williams 1997, p. 128 "...the single-tooth gear, like that used by Schickard, would not do for a general carry mechanism. The single-tooth gear works fine if the carry is only going to be propagated a few places but, if the carry has to be propagated several places along the accumulator, the force needed to operate the machine would be of such magnitude that it would do damage to the delicate gear works."
+18. Pascal, Blaise (1645). La Machine d'arithmétique (https://fr.wikisource.org/wiki/La_Machine_ d%E2%80%99arithm%C3%A9tique) (in French).
+19. Marguin 1994, p. 48.
+20. Ocagne 1893, p. 245.
+21. Mourlevat 1988, p. 12.
+22. Falk, Jim. "Schickard versus Pascal - an empty debate?" (https://web.archive.org/web/2014 0408215848/http://metastudies.net/pmwiki/pmwiki.php?n=Site.SchicardvsPascal). Archived from the original (https://metastudies.net/pmwiki/pmwiki.php?n=Site.SchicardvsPascal) on 2014-04-08. Retrieved 2014-05-15.
+23. Smith 1929, pp. 180-181.
+24. Leibniz 1703.
+25. "Discovering the Arithmometer" (https://web.archive.org/web/20060913173424/http://www.ci s.cornell.edu/boom/2005/ProjectArchive/arithometer/index.html). Cornell University. 2005. Archived from the original (https://www.cis.cornell.edu/boom/2005/ProjectArchive/arithomete r/) on 2006-09-13. Retrieved 2023-08-26.
+26. "Herman Hollerith" (https://www.columbia.edu/acis/history/hollerith.html). Columbia University Computing History. Columbia University ACIS. Archived (https://web.archive.org/ web/20110513134315/http://www.columbia.edu/acis/history/hollerith.html) from the original on 2011-05-13. Retrieved 2010-01-30.
+27. Truesdell, Leon E. (1965). The Development of Punch Card Tabulation in the Bureau of the Census 1890-1940. US GPO. pp. 47-55.
+
+28. Report of the Commissioner of Labor In Charge of The Eleventh Census to the Secretary of the Interior for the Fiscal Year Ending June 30, 1895. Washington, DC: United States Government Publishing Office. 29 July 1895. p. 9. hdl:2027/osu.32435067619882 (https://hd l.handle.net/2027%2Fosu.32435067619882). OCLC 867910652 (https://search.worldcat.or g/oclc/867910652). "You may confidently look for the rapid reduction of the force of this office after the 1st of October, and the entire cessation of clerical work during the present calendar year	The condition of the work of the Census Division and the condition of the
+final reports show clearly that the work of the Eleventh Census will be completed at least two years earlier than was the work of the Tenth Census." - Carroll D. Wright, Commissioner of Labor in Charge
+29. "1920" (https://www.ibm.com/ibm/history/history/year_1920.html). IBM Archives. 23 January
+2003. Archived (https://web.archive.org/web/20201029080349/https://www.ibm.com/ibm/hist ory/history/year_1920.html) from the original on 2020-10-29. Retrieved 2020-12-01.
+30. "Chronological History of IBM: 1930s" (https://www.ibm.com/ibm/history/history/decade_193 0.html). IBM Archives. 23 January 2003. Archived (https://web.archive.org/web/2020120314 5246/https://www.ibm.com/ibm/history/history/decade_1930.html) from the original on 2020- 12-03. Retrieved 2020-12-01.
+31. Leslie Comrie (1928) On the Construction of Tables by Interpolation (https://adsabs.harvard. edu/full/1928MNRAS..88..506C)
+32. Eckert 1935.
+33. Erskine, Ralph; Smith, Michael, eds. (2011), The Bletchley Park Codebreakers, Biteback Publishing Ltd, p. 134, ISBN 978-184954078-0 Updated and extended version of Action This Day: From Breaking of the Enigma Code to the Birth of the Modern Computer Bantam Press 2001
+34. Frank da Cruz. "A Chronology of Computing at Columbia University" (https://www.columbia. edu/cu/computinghistory/#timeline). Columbia University Computing History. Columbia University. Archived (https://web.archive.org/web/20230822234349/http://www.columbia.ed u/cu/computinghistory/#timeline) from the original on 2023-08-22. Retrieved 2023-08-31.
+35. Eckert 1940, pp. 101-114.
+36. Light, Jennifer S. (July 1999). "When Computers Were Women". Technology and Culture. 40 (3): 455-483. doi:10.1353/tech.1999.0128 (https://doi.org/10.1353%2Ftech.1999.0128). S2CID 108407884 (https://api.semanticscholar.org/CorpusID:108407884).
+37. Hunt 1998.
+38. "Friden Model STW-10 Electro-Mechanical Calculator" (https://www.oldcalculatormuseum.co m/fridenstw.html). Archived (https://web.archive.org/web/20110514070335/http://www.oldcal culatormuseum.com/fridenstw.html) from the original on 2011-05-14. Retrieved 2015-08-11.
+39. "Simple and Silent". Office Magazine. December 1961. p. 1244.
+40. " 'Anita' der erste tragbare elektonische Rechenautomat" ['Anita' the first portable electronic computer]. Buromaschinen Mechaniker. November 1961. p. 207.
+41. Babbage, Charles (12 October 2011). Passages from the Life of a Philosopher (https://dx.do i.org/10.1017/cbo9781139103671). Cambridge University Press. doi:10.1017/cbo9781139103671 (https://doi.org/10.1017%2Fcbo9781139103671).
+ISBN 978-1-108-03788-4.
+42. Babbage, Charles (4 March 2010). On the Economy of Machinery and Manufactures (http s://dx.doi.org/10.1017/cbo9780511696374). Cambridge University Press. doi:10.1017/cbo9780511696374 (https://doi.org/10.1017%2Fcbo9780511696374).
+ISBN 978-1-108-00910-2.
+43. Hutton, D.M. (1 August 2002). "The Difference Engine: Charles Babbage and the Quest to Build the First Computer" (https://dx.doi.org/10.1108/k.2002.06731fae.009). Kybernetes. 31
+(6). doi:10.1108/k.2002.06731fae.009 (https://doi.org/10.1108%2Fk.2002.06731fae.009). ISSN 0368-492X (https://search.worldcat.org/issn/0368-492X).
+
+44. Tropp, Henry S. (December 1975). "The Origins of Digital Computers: Selected Papers. Brian Randell" (https://dx.doi.org/10.1086/351520). Isis. 66 (4): 572-573. doi:10.1086/351520 (https://doi.org/10.1086%2F351520). ISSN 0021-1753 (https://search.w orldcat.org/issn/0021-1753).
+45. W., J. W.; Hyman, Anthony (April 1986). "Charles Babbage, Pioneer of the Computer" (http s://dx.doi.org/10.2307/2008013). Mathematics of Computation. 46 (174): 759. doi:10.2307/2008013 (https://doi.org/10.2307%2F2008013). ISSN 0025-5718 (https://searc h.worldcat.org/issn/0025-5718). JSTOR 2008013 (https://www.jstor.org/stable/2008013).
+46. Campbell-Kelly, Martin; Aspray, William; Ensmenger, Nathan; Yost, Jeffrey R. (20 April 2018). Computer (https://dx.doi.org/10.4324/9780429495373). doi:10.4324/9780429495373 (https://doi.org/10.4324%2F9780429495373). ISBN 978-0-429-49537-3.
+47. Turing, Alan (9 September 2004), "Computing Machinery and Intelligence (1950)" (https://d x.doi.org/10.1093/oso/9780198250791.003.0017), The Essential Turing, Oxford University PressOxford, pp. 433-464, doi:10.1093/oso/9780198250791.003.0017 (https://doi.org/10.10 93%2Foso%2F9780198250791.003.0017), ISBN 978-0-19-825079-1, retrieved 2024-10-30
+48. Davis, Martin (28 February 2018). the Universal Computer (https://dx.doi.org/10.1201/97813 15144726). doi:10.1201/9781315144726 (https://doi.org/10.1201%2F9781315144726). ISBN 978-1-315-14472-6.
+49. d'Ucel, Jeanne; Dib, Mohammed (1958). "Le métier à tisser" (https://dx.doi.org/10.2307/400 98349). Books Abroad. 32 (3): 278. doi:10.2307/40098349 (https://doi.org/10.2307%2F4009 8349). ISSN 0006-7431 (https://search.worldcat.org/issn/0006-7431). JSTOR 40098349 (htt ps://www.jstor.org/stable/40098349).
+50. Heide, Lars (2009). Punched-Card Systems and the Early Information Explosion, 1880- 1945 (https://dx.doi.org/10.1353/book.3454). Johns Hopkins University Press. doi:10.1353/book.3454 (https://doi.org/10.1353%2Fbook.3454). ISBN 978-0-8018-9143-4.
+51. Bromley, A.G. (1998). "Charles Babbage's Analytical Engine, 1838" (https://dx.doi.org/10.11 09/85.728228). IEEE Annals of the History of Computing. 20 (4): 29-45. doi:10.1109/85.728228 (https://doi.org/10.1109%2F85.728228). ISSN 1058-6180 (https://se arch.worldcat.org/issn/1058-6180).
+52. Toole, Betty Alexandra (March 1991). "Ada, an analyst and a metaphysician" (https://dx.doi. org/10.1145/122028.122031). ACM SIGAda Ada Letters. XI (2): 60-71. doi:10.1145/122028.122031 (https://doi.org/10.1145%2F122028.122031). ISSN 1094-3641
+(https://search.worldcat.org/issn/1094-3641).
+53. Howard, Emily; De Roure, David (2015). "Turning numbers into notes" (https://dx.doi.org/10. 1145/2867731.2867746). Ada Lovelace Symposium 2015- Celebrating 200 Years of a Computer Visionary on - Ada Lovelace Symposium '15. New York, New York, USA: ACM Press. p. 13. doi:10.1145/2867731.2867746 (https://doi.org/10.1145%2F2867731.2867746). ISBN 978-1-4503-4150-9.
+54. Haugtvedt, Erica; Abata, Duane (2021). "Ada Lovelace: First Computer Programmer and Hacker?" (https://dx.doi.org/10.18260/1-2--36646). 2021 ASEE Virtual Annual Conference Content Access Proceedings. ASEE Conferences. doi:10.18260/1-2--36646 (https://doi.org/ 10.18260%2F1-2--36646).
+
+55. Blodgett, John H. (1968). Herman Hollerith, data processing pioneer (https://dx.doi.org/10.1 7918/00004750) (Thesis). Drexel University Libraries. doi:10.17918/00004750 (https://doi.or g/10.17918%2F00004750).
+56. Torres y Quevedo, Leonardo (1982), "Essays on Automatics" (https://dx.doi.org/10.1007/978
+-3-642-61812-3_6), The Origins of Digital Computers, Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 89-107, doi:10.1007/978-3-642-61812-3_6 (https://doi.org/10.1007%2F978- 3-642-61812-3_6), ISBN 978-3-642-61814-7, retrieved 2024-10-30
+57. "6 Vannevar Bush, from "As We May Think" (1945)", Information, Columbia University Press, 2021, doi:10.7312/hayo18620-032 (https://doi.org/10.7312%2Fhayo18620-032), ISBN 978-0-231-54654-6
+
+58. Haigh, Thomas; Ceruzzi, Paul E. (14 September 2021). A New History of Modern Computing (https://dx.doi.org/10.7551/mitpress/11436.001.0001). The MIT Press. doi:10.7551/mitpress/11436.001.0001 (https://doi.org/10.7551%2Fmitpress%2F11436.001.0 001). ISBN 978-0-262-36648-9.
+59. Chua 1971, pp. 507-519.
+60. "The Modern History of Computing" (https://plato.stanford.edu/entries/computing-history/). Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University. 2017. Archived (https://web.archive.org/web/20100712072148/http://plato.stanford.edu/entri es/computing-history/) from the original on 2010-07-12. Retrieved 2014-01-07.
+61. Girvan, Ray (May-June 2003). "The revealed grace of the mechanism: computing after Babbage" (https://web.archive.org/web/20121103094710/http://www.scientific-computing.co m/scwmayjun03computingmachines.html). Scientific Computing World. Archived from the original (https://www.scientific-computing.com/scwmayjun03computingmachines.html) on 2012-11-03.
+62. Torres, Leonardo (10 October 1895). "Memória sobre las Máquinas Algébricas" (https://quic kclick.es/rop/pdf/publico/1895/1895_tomoI_28_01.pdf) (PDF). Revista de Obras Públicas (in Spanish) (28): 217-222.
+63. Leonardo Torres. Memoria sobre las máquinas algébricas: con un informe de la Real academia de ciencias exactas, fisicas y naturales (https://books.google.com/books?id=Eo0 NAQAAIAAJ), Misericordia, 1895.
+64. Thomas, Federico (1 August 2008). "A short account on Leonardo Torres' endless spindle" (https://www.sciencedirect.com/science/article/pii/S0094114X07001231). Mechanism and Machine Theory. 43 (8). IFToMM: 1055-1063. doi:10.1016/j.mechmachtheory.2007.07.003 (https://doi.org/10.1016%2Fj.mechmachtheory.2007.07.003). hdl:10261/30460 (https://hdl.h andle.net/10261%2F30460). ISSN 0094-114X (https://search.worldcat.org/issn/0094-114X).
+65. "Norden M9 Bombsight" (https://web.archive.org/web/20070829071916/http://www.national museum.af.mil/factsheets/factsheet.asp?id=8056). National Museum of the USAF. Archived from the original (https://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=8056) on 2007-08-29. Retrieved 2008-05-17.
+66. Coriolis 1836, pp. 5-9.
+67. Tomayko, James E. (1985). "Helmut Hoelzer's Fully Electronic Analog Computer". IEEE Annals of the History of Computing. 7 (3): 227-240. doi:10.1109/MAHC.1985.10025 (https:// doi.org/10.1109%2FMAHC.1985.10025). S2CID 15986944 (https://api.semanticscholar.org/ CorpusID:15986944).
+68. Neufeld, Michael J. (10 September 2013). The Rocket and the Reich: Peenemunde and the Coming of the Ballistic Missile Era (https://books.google.com/books?id=L6BfBgAAQBAJ&q= Hoelzer%201942&pg=PT138). Smithsonian Institution. p. 138. ISBN 9781588344663. Archived (https://web.archive.org/web/20230202181641/https://books.google.com/books?id
+=L6BfBgAAQBAJ&q=Hoelzer%201942&pg=PT138) from the original on 2023-02-02. Retrieved 2020-10-18.
+69. Ulmann, Bernd (22 July 2013). Analog Computing (https://books.google.com/books?id=y1D pBQAAQBAJ&pg=PA38). Walter de Gruyter. p. 38. ISBN 9783486755183. Archived (https:// web.archive.org/web/20230202181642/https://books.google.com/books?id=y1DpBQAAQBA J&pg=PA38) from the original on 2023-02-02. Retrieved 2021-12-27.
+70. Turing 1937, 1938
+71. Copeland 2004, p. 22: "von Neumann ... firmly emphasized to me, and to others I am sure, that the fundamental conception is owing to Turing-insofar as not anticipated by Babbage, Lovelace and others. Letter by Stanley Frankel to Brian Randell, 1972."
+72. Zuse, Horst. "Part 4: Konrad Zuse's Z1 and Z3 Computers" (https://web.archive.org/web/200 80601210541/http://www.epemag.com/zuse/part4a.htm). The Life and Work of Konrad Zuse. EPE Online. Archived from the original (https://www.epemag.com/zuse/part4a.htm) on 2008-06-01. Retrieved 2008-06-17.
+
+73. Smith 2007, p. 60.
+74. Welchman 1984, p. 77.
+75. "A Computer Pioneer Rediscovered, 50 Years On" (https://www.nytimes.com/1994/04/20/ne ws/20iht-zuse.html). The New York Times. 20 April 1994. Archived (https://web.archive.org/ web/20161104051054/http://www.nytimes.com/1994/04/20/news/20iht-zuse.html) from the original on 2016-11-04. Retrieved 2017-02-16.
+76. Zuse 1993, p. 55.
+77. "Zuse" (https://web.archive.org/web/20080318184915/http://www.crash-it.com/crash/index.p hp?page=73). Crash! The Story of IT. Archived from the original (https://www.crash-it.com/cr ash/index.php?page=73) on 2008-03-18.
+78. Rojas, Raúl (1998). How to Make Zuse's Z3 a Universal Computer. CiteSeerX 10.1.1.37.665 (https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.665).
+79. Williams, F. C.; Kilburn, T. (25 September 1948). "Electronic Digital Computers" (https://doi.o rg/10.1038%2F162487a0). Nature. 162 (4117): 487. Bibcode:1948Natur.162..487W (https:// ui.adsabs.harvard.edu/abs/1948Natur.162..487W). doi:10.1038/162487a0 (https://doi.org/1 0.1038%2F162487a0). S2CID 4110351 (https://api.semanticscholar.org/CorpusID:411035 1).
+80. Da Cruz 2008.
+81. "Computer Pioneers - George Stibitz" (https://history.computer.org/pioneers/stibitz.html). history.computer.org. Archived (https://web.archive.org/web/20181005004432/http://history.c omputer.org/pioneers/stibitz.html) from the original on 2018-10-05. Retrieved 2018-11-08.
+82. Ritchie, David (1986). The Computer Pioneers (https://archive.org/details/computerpioneers 00ritc). New York: Simon and Schuster. p. 35 (https://archive.org/details/computerpioneers0 0ritc/page/35). ISBN 067152397X.
+83. Dunn, J. Michael; Hardegree, Gary M. (2001). Algebraic methods in philosophical logic (http s://books.google.com/books?id=-AokWhbILUIC&pg=PA2). Oxford University Press US. p. 2. ISBN 978-0-19-853192-0. Archived (https://web.archive.org/web/20230202181643/https://bo oks.google.com/books?id=-AokWhbILUIC&pg=PA2) from the original on 2023-02-02. Retrieved 2016-06-04.
+84. Arthur Gottlob Frege. Begriffsschrift: eine der arithmetischen nachgebildete Formelsprache des reinen Denkens.
+85. Shannon 1938.
+86. Shannon 1940.
+87. Shannon 1938, pp. 494-495.
+88. Guarnieri, M. (2012). "The Age of Vacuum Tubes: Merging with Digital Computing [Historical]". IEEE Industrial Electronics Magazine. 6 (3): 52-55. doi:10.1109/MIE.2012.2207830 (https://doi.org/10.1109%2FMIE.2012.2207830).
+S2CID 41800914 (https://api.semanticscholar.org/CorpusID:41800914).
+89. Pugh, Emerson W. (1996). Building IBM: Shaping an Industry and its Technology. The MIT Press.
+90. "Patents and Innovation" (https://www.ibm.com/ibm/history/ibm100/us/en/icons/patents/). IBM 100. 7 March 2012. Archived (https://web.archive.org/web/20201202140105/https://ww w.ibm.com/ibm/history/ibm100/us/en/icons/patents/) from the original on 2020-12-02. Retrieved 2020-12-01.
+91. 15 January 1941 notice in the Des Moines Register
+92. Burks, Alice R.; Burks, Arthur W. (1988). The First Electronic Computer: the Atanasoff story (https://archive.org/details/firstelectronicc0000burk). Ann Arbor: University of Michigan Press. ISBN 0-472-10090-4.
+93. Copeland 2006, p. 107.
+94. Welchman 1984, pp. 138-145, 295-309.
+
+95. Copeland 2006, p. 182.
+96. Randell 1980, p. 9.
+97. Budiansky 2000, p. 314.
+98. "Bletchley's code-cracking Colossus" (https://news.bbc.co.uk/1/hi/technology/8492762.stm). BBC News. 2 February 2010. Archived (https://web.archive.org/web/20200308163851/http:// news.bbc.co.uk/2/hi/technology/8492762.stm) from the original on 2020-03-08. Retrieved 2012-10-19.
+99. Fensom, Jim (8 November 2010), "Harry Fensom obituary" (https://www.theguardian.com/th eguardian/2010/nov/08/harry-fensom-obituary), The Guardian, archived (https://web.archiv e.org/web/20130917220225/http://www.theguardian.com/theguardian/2010/nov/08/harry-fen som-obituary) from the original on 2013-09-17, retrieved 2012-10-17
+100. Sale, Tony. "Colossus - The Rebuild Story" (https://web.archive.org/web/20150418230306/ht tp://www.tnmoc.org/colossus-rebuild-story). The National Museum of Computing. Archived from the original (https://www.tnmoc.org/colossus-rebuild-story) on 2015-04-18.
+101. Copeland 2006, p. 75.
+102. Copeland 2006, p. 2.
+103. Small, Albert W. (December 1944), The Special Fish Report (https://www.codesandciphers.o rg.uk/documents/small/smallix.htm), College Campus Washington: The American National Archive (NARA), archived (https://web.archive.org/web/20110515021436/http://www.codesa ndciphers.org.uk/documents/small/smallix.htm) from the original on 2011-05-15, retrieved 2019-01-11
+104. Randell, Brian; Fensom, Harry; Milne, Frank A. (15 March 1995), "Obituary: Allen Coombs" (https://web.archive.org/web/20120203042657/http://www.independent.co.uk/news/people/o bituary-allen-coombs-1611270.html), The Independent, archived from the original (https://w ww.independent.co.uk/news/people/obituary-allen-coombs-1611270.html) on 2012-02-03,
+retrieved 2012-10-18
+105. Flowers, T. H. (1983), "The Design of Colossus" (https://www.ivorcatt.com/47c.htm), Annals of the History of Computing, 5 (3): 239-252, doi:10.1109/MAHC.1983.10079 (https://doi.org/ 10.1109%2FMAHC.1983.10079), S2CID 39816473 (https://api.semanticscholar.org/CorpusI D:39816473), archived (https://web.archive.org/web/20060326041703/http://www.ivorcatt.co m/47c.htm) from the original on 2006-03-26, retrieved 2019-03-03
+106. Loerner, Brendan I. (25 November 2014). "How the World's First Computer Was Rescued From the Scrap Heap" (https://www.wired.com/2014/11/eniac-unearthed/). Wired. Archived (https://web.archive.org/web/20170502064714/https://www.wired.com/2014/11/eniac-uneart hed/) from the original on 2017-05-02. Retrieved 2017-03-07.
+107. Evans 2018, p. 39.
+108. "Generations of Computer" (https://web.archive.org/web/20150702211455/http://www.techiw arehouse.com/engine/a046ee08/Generations-of-Computer/). Archived from the original (http s://www.techiwarehouse.com/engine/a046ee08/Generations-of-Computer) on 2015-07-02.
+Retrieved 2015-08-11.
+109. Copeland 2004, pp. 21-22.
+110. Copeland 2006, p. 104.
+111. Wilkes, M. V. (1956). Automatic Digital Computers. New York: John Wiley & Sons. pp. 305 pages. QA76.W5 1956.
+112. Alan Turing (1945). Proposed Electronic Calculator (https://www.npl.co.uk/getattachment/ab out-us/History/Famous-faces/Alan-Turing/turing-proposal-Alan-LR.pdf?lang=en-GB) (PDF) (Report). Retrieved 2023-08-24.
+
+113. Enticknap, Nicholas (Summer 1998), "Computing's Golden Jubilee" (https://web.archive.org/ web/20120109142655/http://www.cs.man.ac.uk/CCS/res/res20.htm#d), Resurrection (20), The Computer Conservation Society, ISSN 0958-7403 (https://search.worldcat.org/issn/095 8-7403), archived from the original (https://www.cs.man.ac.uk/CCS/res/res20.htm#d) on 2012-01-09, retrieved 2008-04-19
+114. "Early computers at Manchester University" (https://web.archive.org/web/20170828010743/ http://www.cs.man.ac.uk/CCS/res/res04.htm#g), Resurrection, 1 (4), The Computer Conservation Society, Summer 1992, ISSN 0958-7403 (https://search.worldcat.org/issn/095 8-7403), archived from the original (https://www.cs.man.ac.uk/CCS/res/res04.htm#g) on 2017-08-28, retrieved 2010-07-07
+115. "Why Williams-Kilburn Tube is a Better Name for the Williams Tube" (https://web.archive.or g/web/20130606122154/http://www.computer50.org/mark1/notes.html). Computer 50. Archived from the original (https://www.computer50.org/mark1/notes.html) on 2013-06-06.
+116. Kilburn, Tom (1990), "From Cathode Ray Tube to Ferranti Mark I" (https://www.cs.man.ac.u k/CCS/res/res02.htm#e), Resurrection, 1 (2), The Computer Conservation Society,
+ISSN 0958-7403 (https://search.worldcat.org/issn/0958-7403), archived (https://web.archive. org/web/20200627165410/http://www.cs.man.ac.uk/CCS/res/res02.htm#e) from the original on 2020-06-27, retrieved 2012-03-15
+117. "Early Electronic Computers (1946-51)" (https://web.archive.org/web/20090105031620/htt p://www.computer50.org/mark1/contemporary.html), Computer 50, University of Manchester, archived from the original (https://www.computer50.org/mark1/contemporary.html) on 2009- 01-05, retrieved 2008-11-16
+118. Napper, R. B. E., "Introduction to the Mark 1" (https://web.archive.org/web/2008102608060 4/http://www.computer50.org/mark1/mark1intro.html), Computer 50, The University of Manchester, archived from the original (https://www.computer50.org/mark1/mark1intro.html) on 2008-10-26, retrieved 2008-11-04
+119. Lavington 1998, p. 20.
+120. Ward, Mark (13 January 2011). "Pioneering Edsac computer to be built at Bletchley Park" (h ttps://www.bbc.co.uk/news/technology-12181153). BBC News. Archived (https://web.archiv e.org/web/20180620162103/https://www.bbc.co.uk/news/technology-12181153) from the original on 2018-06-20. Retrieved 2018-06-21.
+121. Wilkes, W. V.; Renwick, W. (1950). "The EDSAC (Electronic delay storage automatic calculator)" (https://doi.org/10.1090%2Fs0025-5718-1950-0037589-7). Math. Comp. 4 (30):
+61-65. doi:10.1090/s0025-5718-1950-0037589-7 (https://doi.org/10.1090%2Fs0025-5718-1
+950-0037589-7).
+122. "A brief informal history of the Computer Laboratory" (https://www.cl.cam.ac.uk/events/EDS AC99/history.html). EDSAC 99. University of Cambridge Computer Laboratory. Archived (htt ps://web.archive.org/web/20130506195233/http://www.cl.cam.ac.uk/events/EDSAC99/histor y.html) from the original on 2013-05-06. Retrieved 2020-12-01.
+123. "The Manchester Mark 1" (https://web.archive.org/web/20140209155638/http://www.comput er50.org/mark1/MM1.html). Computer 50. Archived from the original (https://www.computer5 0.org/mark1/MM1.html) on 2014-02-09. Retrieved 2014-01-05.
+124. "Pioneer computer to be rebuilt". Cam. 62: 5. 2011. To be precise, EDSAC's first program printed a list of the squares of the integers from 0 to 99 inclusive.
+125. EDSAC 99: 15-16 April 1999 (https://www.cl.cam.ac.uk/events/EDSAC99/booklet.pdf) (PDF), University of Cambridge Computer Laboratory, 6 May 1999, pp. 68-69, archived (htt ps://web.archive.org/web/20200926061030/https://www.cl.cam.ac.uk/events/EDSAC99/boo klet.pdf) (PDF) from the original on 2020-09-26, retrieved 2013-06-29
+
+126. Campbell-Kelly, Martin (July 2001). "Tutorial Guide to the EDSAC Simulator" (https://web.arc hive.org/web/20151222132057/http://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pd
+f) (PDF). Department of Computer Science, University of Warwick. Archived from the original (https://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf) (PDF) on 2015-12-
+22. Retrieved 2016-11-18.
+ • "Tutorial Guide to the EDSAC Simulator" (https://www.dcs.warwick.ac.uk/~edsac/Softwar e/EdsacTG.pdf) (PDF). The EDSAC Replica Project, The National Museum of Computing. March 2018. Archived (https://web.archive.org/web/20151222132057/http://www.dcs.warwic k.ac.uk/~edsac/Software/EdsacTG.pdf) (PDF) from the original on 2015-12-22. Retrieved 2020-12-02.
+127. Lavington 1998, p. 25.
+128. Our Computer Heritage Pilot Study: Deliveries of Ferranti Mark I and Mark I Star computers. (https://web.archive.org/web/20161211201840/http://www.ourcomputerheritage.org/wp/), Computer Conservation Society, archived from the original (https://www.ourcomputerheritag e.org/wp/) on 2016-12-11, retrieved 2010-01-09
+129. Lavington, Simon. "A brief history of British computers: the first 25 years (1948-1973)" (http s://web.archive.org/web/20100705050757/http://www.bcs.org/server.php). British Computer Society. Archived from the original (http://www.bcs.org/server.php?) on 2010-07-05. Retrieved 2010-01-10.
+130. 1634-1699: McCusker, J. J. (1997). How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States: Addenda et Corrigenda (https://www.americanantiquarian.org/proceedings/44525121.pdf) (PDF). American Antiquarian Society. 1700-1799: McCusker, J. J. (1992). How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States (https://www.americanantiquarian.org/proceedings/44517778.pdf) (PDF). American Antiquarian Society. 1800-present: Federal Reserve Bank of Minneapolis. "Consumer Price Index (estimate) 1800-" (https://www.minneapolisfed.org/about-us/moneta ry-policy/inflation-calculator/consumer-price-index-1800-). Retrieved 2024-02-29.
+131. Leclerc, Bruno (January 1990). "From Gamma 2 to Gamma E.T.: The Birth of Electronic Computing at Bull". Annals of the History of Computing. 12 (1): 5-22. doi:10.1109/MAHC.1990.10010 (https://doi.org/10.1109%2FMAHC.1990.10010).
+ISSN 0164-1239 (https://search.worldcat.org/issn/0164-1239). S2CID 15227017 (https://api. semanticscholar.org/CorpusID:15227017).
+132. Platoni, Kara (May-June 2006). "Love at First Byte" (https://web.archive.org/web/20060925 022700/http://www.stanfordalumni.org/news/magazine/2006/mayjun/features/knuth.html). Stanford Magazine. Archived from the original (https://www.stanfordalumni.org/news/magazi ne/2006/mayjun/features/knuth.html) on 2006-09-25.
+133. V. M. Wolontis (18 August 1955) "A Complete Floating-Decimal Interpretive System for the
+I.B.M. 650 Magnetic Drum Calculator-Case 20878" Bell Telephone Laboratories Technical Memorandum MM-114-37, Reported in IBM Technical Newsletter No. 11, March 1956, as referenced in "Wolontis-Bell Interpreter". Annals of the History of Computing. 8 (1). IEEE: 74-76. January-March 1986. doi:10.1109/MAHC.1986.10008 (https://doi.org/10.1109%2FM AHC.1986.10008). S2CID 36692260 (https://api.semanticscholar.org/CorpusID:36692260).
+134. Dudley, Leonard (2008). Information Revolution in the History of the West (https://books.goo gle.com/books?id=jLnPi5aYoJUC&pg=PA266). Edward Elgar Publishing. p. 266. ISBN 978- 1-84720-790-6. Retrieved 2020-08-30.
+135. IBM (1957), SOAP II for the IBM 650 (http://www.bitsavers.org/pdf/ibm/650/24-4000-0_SOA PII.pdf) (PDF), C24-4000-0, archived (https://web.archive.org/web/20090920081523/http://w ww.bitsavers.org/pdf/ibm/650/24-4000-0_SOAPII.pdf) (PDF) from the original on 2009-09- 20, retrieved 2009-05-25
+136. Horowitz & Hill 1989, p. 743.
+
+137. Wilkes, M. V. (1992). "Edsac 2". IEEE Annals of the History of Computing. 14 (4): 49-56. doi:10.1109/85.194055 (https://doi.org/10.1109%2F85.194055). S2CID 11377060 (https://a pi.semanticscholar.org/CorpusID:11377060).
+138. T. Kilburn; R. B. Payne; D. J. Howarth (1962). "The Atlas Supervisor" (https://www.chilton-co mputing.org.uk/acl/technology/atlas/p019.htm). Atlas Computer. Archived (https://web.archiv e.org/web/20091231062425/http://www.chilton-computing.org.uk/acl/technology/atlas/p019. htm) from the original on 2009-12-31. Retrieved 2010-02-09.
+139. US 2708722 (https://worldwide.espacenet.com/textdoc?DB=EPODOC&IDX=US2708722), Wang, An, "Pulse transfer controlling device", issued 17 May 1955
+140. "1953: Whirlwind computer debuts core memory" (https://www.computerhistory.org/storagee ngine/whirlwind-computer-debuts-core-memory/). Computer History Museum. Archived (http s://web.archive.org/web/20180508121757/http://www.computerhistory.org/storageengine/wh irlwind-computer-debuts-core-memory/) from the original on 2018-05-08. Retrieved
+2023-08-26.
+141. N. Valery (21 August 1975). "Takeover in the memory market" (https://books.google.com/bo oks?id=paExEmGMXlAC&pg=PA419). New Scientist. pp. 419-421. Archived (https://web.ar chive.org/web/20230202181645/https://books.google.com/books?id=paExEmGMXlAC&pg= PA419) from the original on 2023-02-02. Retrieved 2019-01-22.
+142. Wells, Benjamin (18 November 2010). "Unwinding performance and power on Colossus, an unconventional computer". Natural Computing. 10 (4). Springer Science and Business Media LLC: 1383-1405. doi:10.1007/s11047-010-9225-x (https://doi.org/10.1007%2Fs1104 7-010-9225-x). ISSN 1567-7818 (https://search.worldcat.org/issn/1567-7818).
+S2CID 7492074 (https://api.semanticscholar.org/CorpusID:7492074).
+143. Feynman, Leighton & Sands 1966, pp. 14-11 to 14-12.
+144. IBM 1960.
+145. Lavington 1998, pp. 34-35.
+146. Lavington 1998, p. 37.
+147. Cooke-Yarborough, E.H. (1998). "Some early transistor applications in the UK". Engineering Science & Education Journal. 7 (3): 100-106. doi:10.1049/esej:19980301 (https://doi.org/10.
+1049%2Fesej%3A19980301) (inactive 12 July 2025).
+148. Cooke-Yarborough, E.H. (1957). Introduction to Transistor Circuits. Edinburgh: Oliver and Boyd.
+149. Lavington, Simon (1980). Early British Computers (https://ed-thelen.org/comp-hist/EarlyBriti sh-05-12.html#Ch-09). Manchester University Press. ISBN 0-7190-0803-4. Archived (https:// web.archive.org/web/20190524164254/http://ed-thelen.org/comp-hist/EarlyBritish-05-12.htm l#Ch-09) from the original on 2019-05-24. Retrieved 2014-01-07.
+150. Cooke-Yarborough, E.H.; Barnes, R.C.M.; Stephen, J.H.; Howells, G.A. (1956). "A transistor digital computer". Proceedings of the IEE - Part B: Radio and Electronic Engineering. 103 (3S): 364-370. doi:10.1049/pi-b-1.1956.0076 (https://doi.org/10.1049%2Fpi-b-1.1956.0076).
+151. Lavington 1998, pp. 36-37.
+152. "Metrovick" (https://web.archive.org/web/20140107164654/http://www.myphotoweb.com/exp meters/pages/metrovick.htm). Exposuremeters.net. Archived from the original (http://www.m yphotoweb.com/expmeters/pages/metrovick.htm) on 2014-01-07.
+153. Simon 1991.
+154. Mayo & Newcomb 2008.
+155. Lavington 1998, p. 41.
+156. Lavington 1998, pp. 44-45.
+157. Lavington 1998, pp. 50-52.
+158. Sao-Jie Chen; Guang-Huei Lin; Pao-Ann Hsiung; Yu-Hen Hu (2009). Hardware software co- design of a multimedia SOC platform. pp. 70-72.
+
+159. Impagliazzo, John; Lee, John A. N. (2004). History of computing in education (https://books. google.com/books?id=J46GinHakmkC&pg=PA172). Springer. p. 172. ISBN 1-4020-8135-9. Archived (https://web.archive.org/web/20230202181649/https://books.google.com/books?id
+
+=J46GinHakmkC&pg=PA172) from the original on 2023-02-02. Retrieved 2016-06-04.
+160. Sisson, Richard; Zacher, Christian K. (2006). The American Midwest: an interpretive encyclopedia (https://books.google.com/books?id=n3Xn7jMx1RYC&pg=PA1489). Indiana University Press. p. 1489. ISBN 0-253-34886-2. Archived (https://web.archive.org/web/2023 0202181649/https://books.google.com/books?id=n3Xn7jMx1RYC&pg=PA1489) from the original on 2023-02-02. Retrieved 2016-06-04.
+161. Kilby 2000.
+162. "The Chip that Jack Built" (https://web.archive.org/web/20170805081956/http://www.ti.com/c orp/docs/kilbyctr/jackbuilt.shtml). Texas Instruments. c. 2008. Archived from the original (http s://www.ti.com/corp/docs/kilbyctr/jackbuilt.shtml) on 2017-08-05. Retrieved 2008-05-29.
+163. Saxena, Arjun N. (2009). Invention of Integrated Circuits: Untold Important Facts (https://boo ks.google.com/books?id=-3lpDQAAQBAJ&pg=PA140). World Scientific. p. 140.
+ISBN 9789812814456. Archived (https://web.archive.org/web/20230202181650/https://book s.google.com/books?id=-3lpDQAAQBAJ&pg=PA140) from the original on 2023-02-02.
+Retrieved 2019-12-07.
+164. "Integrated circuits" (https://www.hq.nasa.gov/alsj/ic-pg3.html). NASA. Archived (https://web. archive.org/web/20190721173218/https://www.hq.nasa.gov/alsj/ic-pg3.html) from the original on 2019-07-21. Retrieved 2019-08-13.
+165. US 2981877 (https://worldwide.espacenet.com/textdoc?DB=EPODOC&IDX=US2981877), Noyce, Robert, "Semiconductor device-and-lead structure", issued 25 April 1961, assigned to Fairchild Semiconductor Corporation
+166. "1959: Practical Monolithic Integrated Circuit Concept Patented" (https://www.computerhisto ry.org/siliconengine/practical-monolithic-integrated-circuit-concept-patented/). Computer History Museum. Archived (https://web.archive.org/web/20191024144046/https://www.comp uterhistory.org/siliconengine/practical-monolithic-integrated-circuit-concept-patented/) from the original on 2019-10-24. Retrieved 2019-08-13.
+167. Lojek, Bo (2007). History of Semiconductor Engineering. Springer Science & Business Media. p. 120. ISBN 9783540342588.
+168. Bassett, Ross Knox (2007). To the Digital Age: Research Labs, Start-up Companies, and the Rise of MOS Technology (https://books.google.com/books?id=UUbB3d2UnaAC&pg=PA 46). Johns Hopkins University Press. p. 46. ISBN 9780801886393. Archived (https://web.arc hive.org/web/20230202181649/https://books.google.com/books?id=UUbB3d2UnaAC&pg=P A46) from the original on 2023-02-02. Retrieved 2019-12-07.
+169. Huff, Howard R.; Tsuya, H.; Gösele, U. (1998). Silicon Materials Science and Technology: Proceedings of the Eighth International Symposium on Silicon Materials Science and Technology (https://books.google.com/books?id=SnQfAQAAIAAJ&pg=PA181). Electrochemical Society. pp. 181-182. ISBN 9781566771931. Archived (https://web.archive. org/web/20230202182712/https://books.google.com/books?id=SnQfAQAAIAAJ&pg=PA181) from the original on 2023-02-02. Retrieved 2019-12-07.
+170. Ceruzzi, Paul (2015). "Apollo Guidance Computer and the First Silicon Chips" (https://airand space.si.edu/stories/editorial/apollo-guidance-computer-and-first-silicon-chips). SmithsonianNational Air and Space Museum. Archived (https://web.archive.org/web/202105 22064136/https://airandspace.si.edu/stories/editorial/apollo-guidance-computer-and-first-sili con-chips) from the original on 2021-05-22. Retrieved 2021-05-12.
+171. "1960 - Metal Oxide Semiconductor (MOS) Transistor Demonstrated" (https://www.computer history.org/siliconengine/metal-oxide-semiconductor-mos-transistor-demonstrated/). The Silicon Engine. Computer History Museum. Archived (https://web.archive.org/web/20191027 045554/https://www.computerhistory.org/siliconengine/metal-oxide-semiconductor-mos-tran sistor-demonstrated/) from the original on 2019-10-27. Retrieved 2019-10-21.
+
+172. "1970: MOS Dynamic RAM Competes with Magnetic Core Memory on Price" (https://www.c omputerhistory.org/siliconengine/mos-dynamic-ram-competes-with-magnetic-core-memory- on-price/). Computer History Museum. Archived (https://web.archive.org/web/202110261429 15/https://www.computerhistory.org/siliconengine/mos-dynamic-ram-competes-with-magneti c-core-memory-on-price/) from the original on 2021-10-26. Retrieved 2019-07-29.
+173. Solid State Design - Vol. 6 (https://books.google.com/books?id=kG4rAQAAIAAJ&q=John+S chmidt). Horizon House. 1965. Archived (https://web.archive.org/web/20230202182713/http s://books.google.com/books?id=kG4rAQAAIAAJ&q=John+Schmidt) from the original on 2023-02-02. Retrieved 2020-10-18.
+174. "DRAM" (https://www.ibm.com/ibm/history/ibm100/us/en/icons/dram/). IBM100. IBM. 9 August 2017. Archived (https://web.archive.org/web/20190620014432/https://www.ibm.com/i bm/history/ibm100/us/en/icons/dram/) from the original on 2019-06-20. Retrieved
+2019-09-20.
+175. "1971: Reusable semiconductor ROM introduced" (https://www.computerhistory.org/storage engine/reusable-semiconductor-rom-introduced/). Computer History Museum. Archived (http s://web.archive.org/web/20191003063442/https://www.computerhistory.org/storageengine/re usable-semiconductor-rom-introduced/) from the original on 2019-10-03. Retrieved
+2019-06-19.
+176. "Not just a flash in the pan" (https://www.economist.com/technology-quarterly/2006/03/11/no t-just-a-flash-in-the-pan). The Economist. 11 March 2006. Archived (https://web.archive.org/ web/20190925021310/https://www.economist.com/technology-quarterly/2006/03/11/not-just- a-flash-in-the-pan) from the original on 2019-09-25. Retrieved 2019-09-10.
+177. Shirriff, Ken (30 August 2016). "The Surprising Story of the First Microprocessors" (https://sp ectrum.ieee.org/the-surprising-story-of-the-first-microprocessors). IEEE Spectrum. 53 (9). Institute of Electrical and Electronics Engineers: 48-54. doi:10.1109/MSPEC.2016.7551353 (https://doi.org/10.1109%2FMSPEC.2016.7551353). S2CID 32003640 (https://api.semantic scholar.org/CorpusID:32003640). Archived (https://web.archive.org/web/20210712091202/ht tps://spectrum.ieee.org/tech-history/silicon-revolution/the-surprising-story-of-the-first-micropr ocessors) from the original on 2021-07-12. Retrieved 2019-10-13.
+178. Intel 1971.
+179. Patterson & Hennessy 1998, pp. 27-39.
+180. Aspray, William (25 May 1994). "Oral-History: Tadashi Sasaki" (https://ethw.org/Oral-History: Tadashi_Sasaki). Archived (https://web.archive.org/web/20200802075939/https://ethw.org/O ral-History:Tadashi_Sasaki) from the original on 2020-08-02. Sasaki credits the idea for a 4 bit-slice PMOS chip to a woman researcher's idea at Sharp Corporation, which was not accepted by the other members of the Sharp brainstorming group. A 40-million yen infusion from Busicom to Intel was made at Sasaki's behest, to exploit the 4 bit-slice PMOS chip.
+181. Eckhouse & Morris 1979, pp. 1-2.
+182. "R2E Micral N" (https://www.system-cfg.com/detail.php?ident=811). www.system-cfg.com. Archived (https://web.archive.org/web/20221110084947/https://www.system-cfg.com/detail. php?ident=811) from the original on 2022-11-10. Retrieved 2022-12-02.
+183. Shankland, Stephen (1 April 2009). "Google uncloaks once-secret server" (https://web.archi ve.org/web/20140716084210/http://www.cnet.com/news/google-uncloaks-once-secret-serve r-10209580/). CNET. Archived from the original (https://news.cnet.com/8301-1001_3-10209 580-92.html) on 2014-07-16. Retrieved 2009-04-01. "Since 2005, its [Google's] data centers have been composed of standard shipping containers-each with 1,160 servers and a power consumption that can reach 250 kilowatts." -Ben Jai of Google.
+184. Shankland, Stephen (30 May 2008). "Google spotlights data center inner workings" (https:// web.archive.org/web/20140818092344/http://www.cnet.com/news/google-spotlights-data-ce nter-inner-workings/). CNET. Archived from the original (https://news.cnet.com/8301-10784_ 3-9955184-7.html?tag=nefd.lede) on 2014-08-18. Retrieved 2008-05-31. "If you're running 10,000 machines, something is going to die every day." -Jeff Dean of Google.
+
+185. "Google Groups" (https://groups.google.com/group/google-appengine/browse_thread/threa d/a7640a2743922dcf?pli=1). Archived (https://web.archive.org/web/20110913014648/http s://groups.google.com/group/google-appengine/browse_thread/thread/a7640a2743922dcf? pli=1) from the original on 2011-09-13. Retrieved 2015-08-11.
+186. Shrout, Ryan (2 December 2009). "Intel Shows 48-core x86 Processor as Single-chip Cloud Computer" (https://pcper.com/2009/12/intel-shows-48-core-x86-processor-as-single-chip-clo ud-computer/). PC Perspective. Archived (https://web.archive.org/web/20100814203128/htt p://www.pcper.com/article.php?aid=825) from the original on 2010-08-14. Retrieved
+2020-12-02.
+ • "Intel unveils 48-core cloud computing silicon chip" (https://news.bbc.co.uk/2/hi/technolog y/8392392.stm). BBC News. 3 December 2009. Archived (https://web.archive.org/web/2012 1206054225/http://news.bbc.co.uk/2/hi/technology/8392392.stm) from the original on 2012- 12-06. Retrieved 2009-12-03.
+187. Kohonen 1980, p. .
+188. Mead & Conway 1980, pp. 11-36.
+189. Energystar report (https://www.energystar.gov/ia/partners/prod_development/downloads/EP A_Report_Exec_Summary_Final.pdf?f272-71fc) (PDF) (Report). 2007. p. 4. Archived (http s://web.archive.org/web/20131022230644/http://www.energystar.gov/ia/partners/prod_devel opment/downloads/EPA_Report_Exec_Summary_Final.pdf?f272-71fc) (PDF) from the original on 2013-10-22. Retrieved 2013-08-18.
+190. Mossberg, Walt (9 July 2014). "How the PC is merging with the smartphone" (https://recode. net/2014/07/09/how-the-pc-is-merging-with-the-smartphone/). Archived (https://web.archive. org/web/20140709183504/http://recode.net/2014/07/09/how-the-pc-is-merging-with-the-sma rtphone/) from the original on 2014-07-09. Retrieved 2014-07-09.
+191. Knight, Will (10 November 2017). "IBM Raises the Bar with a 50-Qubit Quantum Computer" (https://www.technologyreview.com/s/609451/ibm-raises-the-bar-with-a-50-qubit-quantum-c omputer/). MIT Technology Review. Archived (https://web.archive.org/web/2017111205072 8/https://www.technologyreview.com/s/609451/ibm-raises-the-bar-with-a-50-qubit-quantum- computer/) from the original on 2017-11-12. Retrieved 2017-11-10.
+192. Julian Kelly; et al. (Google Quantum AI) (15 July 2021). "Exponential suppression of bit or phase errors with cyclic error correction" (https://www.nature.com/articles/s41586-021-0358 8-y.pdf?pdf=button%20sticky) (PDF). Nature. 595 (7867): 383-387. doi:10.1038/s41586- 021-03588-y (https://doi.org/10.1038%2Fs41586-021-03588-y). PMC 8279951 (https://www. ncbi.nlm.nih.gov/pmc/articles/PMC8279951). PMID 34262210 (https://pubmed.ncbi.nlm.nih. gov/34262210). Cited in Adrian Cho (14 July 2021). "Physicists move closer to defeating errors in quantum computation" (https://www.science.org/content/article/physicists-move-clo ser-defeating-errors-quantum-computation). Science.
+193. Pakkiam, P.; Timofeev, A. V.; House, M. G.; Hogg, M. R.; Kobayashi, T.; Koch, M.; Rogge, S.; Simmons, M. Y. (26 November 2018). "Single-Shot Single-Gate rf Spin Readout in Silicon". Physical Review X. 8 (4). 041032. arXiv:1809.01802 (https://arxiv.org/abs/1809.018
+02). Bibcode:2018PhRvX...8d1032P (https://ui.adsabs.harvard.edu/abs/2018PhRvX...8d103 2P). doi:10.1103/PhysRevX.8.041032 (https://doi.org/10.1103%2FPhysRevX.8.041032).
+S2CID 119363882 (https://api.semanticscholar.org/CorpusID:119363882) - via APS.
+194. Moore, Samuel K. (13 March 2019). "Google Builds Circuit to Solve One of Quantum Computing's Biggest Problems" (https://spectrum.ieee.org/google-team-builds-circuit-to-solv e-one-of-quantum-computings-biggest-problems). IEEE Spectrum. Archived (https://web.arc hive.org/web/20190314213116/https://spectrum.ieee.org/tech-talk/semiconductors/design/g oogle-team-builds-circuit-to-solve-one-of-quantum-computings-biggest-problems) from the original on 2019-03-14. Retrieved 2019-03-14.
+
+195. Ina Fried (14 November 2021). "Exclusive: IBM achieves quantum computing breakthrough" (https://www.axios.com/ibm-quantum-computing-axios-hbo-bd9d50b7-3c11-4586-bdb1-8bb c9928ad1b.html). Axios. Archived (https://web.archive.org/web/20211115133314/https://ww w.axios.com/ibm-quantum-computing-axios-hbo-bd9d50b7-3c11-4586-bdb1-8bbc9928ad1b. html) from the original on 2021-11-15.
+196. Juskalian, Russ (22 February 2017). "Practical Quantum Computers" (https://mittr-frontend- prod.herokuapp.com/s/603495/10-breakthrough-technologies-2017-practical-quantum-comp uters/amp/). MIT Technology Review. Archived (https://web.archive.org/web/202106231938 33/https://mittr-frontend-prod.herokuapp.com/s/603495/10-breakthrough-technologies-2017- practical-quantum-computers/amp/) from the original on 2021-06-23. Retrieved 2020-12-02.
+197. MacKinnon, John D. (19 December 2018). "House Passes Bill to Create National Quantum Computing Program" (https://www.wsj.com/articles/congress-expected-to-pass-bill-spurring- quantum-computing-11545250595). The Wall Street Journal. Archived (https://web.archive.o rg/web/20181220084728/https://www.wsj.com/articles/congress-expected-to-pass-bill-spurri ng-quantum-computing-11545250595) from the original on 2018-12-20. Retrieved
+2018-12-20.
+198. Princeton University (25 December 2019). "Quantum Computing Breakthrough: Silicon Qubits Interact at Long-Distance" (https://scitechdaily.com/quantum-computing-breakthroug h-silicon-qubits-interact-at-long-distance/). SciTechDaily. Archived (https://web.archive.org/w eb/20191226165255/https://scitechdaily.com/quantum-computing-breakthrough-silicon-qubit s-interact-at-long-distance/) from the original on 2019-12-26. Retrieved 2019-12-26.
+199. Smolin 2001, pp. 53-57. Pages 220-226 are annotated references and guide for further reading.
+200. Burks, Goldstine & von Neumann 1947, pp. 1-464 reprinted in Datamation, September- October 1962. Note that preliminary discussion/design was the term later called system analysis/design, and even later, called system architecture.
+201. "IEEE Annals of the History of Computing" (https://www.informatik.uni-trier.de/~ley/db/journal s/annals/). Schloss Dagstuhl - Leibniz-Zentrum für Informatik. Archived (https://web.archive. org/web/20110320212935/http://www.informatik.uni-trier.de/~ley/db/journals/annals/) from the original on 2011-03-20. Retrieved 2023-08-29.
+202. "ORNL's Frontier First to Break the Exaflop Ceiling" (https://www.top500.org/news/ornls-fron tier-first-to-break-the-exaflop-ceiling/). top500.org. 30 May 2022. Archived (https://web.archi ve.org/web/20220602004225/https://www.top500.org/news/ornls-frontier-first-to-break-the-e xaflop-ceiling/) from the original on 2022-06-02. Retrieved 2023-08-26.
+203. McKay, Tom (22 June 2020). "Japan's New Fugaku Supercomputer Is Number One, Ranking in at 415 Petaflops" (https://gizmodo.com/japans-new-fugaku-supercomputer-is-nu mber-one-ranking-1844126655). Gizmodo. Archived (https://web.archive.org/web/20200623 174019/https://gizmodo.com/japans-new-fugaku-supercomputer-is-number-one-ranking-184 4126655) from the original on 2020-06-23. Retrieved 2020-06-23.
+
+References
+
+Backus, John (August 1978), "Can Programming be Liberated from the von Neumann Style?", Communications of the ACM, 21 (8): 613, doi:10.1145/359576.359579 (https://doi.o rg/10.1145%2F359576.359579), S2CID 16367522 (https://api.semanticscholar.org/CorpusI D:16367522), 1977 ACM Turing Award Lecture
+Bell, Gordon; Newell, Allen (1971), Computer Structures: Readings and Examples (https://ar chive.org/details/computerstructur00bell), New York: McGraw-Hill, ISBN 0-07-004357-4
+
+Bergin, Thomas J., ed. (13-14 November 1996), Fifty Years of Army Computing: from ENIAC to MSRC (https://web.archive.org/web/20080529105723/http://www.arl.army.mil/ww w/DownloadedInternetPages/CurrentPages/AboutARL/eniac.pdf) (PDF), A record of a symposium and celebration, Aberdeen Proving Ground.: Army Research Laboratory and the U.S.Army Ordnance Center and School., archived from the original (http://www.arl.army.mil/ www/DownloadedInternetPages/CurrentPages/AboutARL/eniac.pdf) (PDF) on 2008-05-29, retrieved 2008-05-17
+Bowden, B. V. (1970), "The Language of Computers" (http://groups-beta.google.com/group/ net.misc/msg/00c91c2cc0896b77), American Scientist, 58 (1): 43-53, Bibcode:1970AmSci..58...43B (https://ui.adsabs.harvard.edu/abs/1970AmSci..58...43B), archived (https://web.archive.org/web/20061020062533/http://groups-beta.google.com/grou p/net.misc/msg/00c91c2cc0896b77) from the original on 2006-10-20, retrieved 2008-05-17
+Budiansky, Stephen (2000), Battle of wits: The Complete Story of Codebreaking in World War II (https://archive.org/details/battleofwitscomp00budi), Free Press, ISBN 978- 0684859323
+Burks, Arthur W.; Goldstine, Herman; von Neumann, John (1947), Preliminary discussion of the Logical Design of an Electronic Computing Instrument (http://www.cs.unc.edu/~adyilie/c omp265/vonNeumann.html), Princeton, NJ: Institute for Advanced Study, archived (https://w eb.archive.org/web/20080515131508/http://www.cs.unc.edu/~adyilie/comp265/vonNeuman n.html) from the original on 2008-05-15, retrieved 2008-05-18
+Chua, Leon O. (September 1971), "Memristor-The Missing Circuit Element", IEEE Transactions on Circuit Theory, 18 (5): 507-519, CiteSeerX 10.1.1.404.9037 (https://citesee rx.ist.psu.edu/viewdoc/summary?doi=10.1.1.404.9037), doi:10.1109/TCT.1971.1083337 (htt ps://doi.org/10.1109%2FTCT.1971.1083337)
+Cleary, J. F. (1964), GE Transistor Manual (7th ed.), General Electric, Semiconductor Products Department, Syracuse, NY, pp. 139-204, OCLC 223686427 (https://search.worldc at.org/oclc/223686427)
+Copeland, B. Jack, ed. (2004). The Essential Turing. Oxford University Press. ISBN 0-19- 825080-0.
+Copeland, B. Jack, ed. (2006), Colossus: The Secrets of Bletchley Park's Codebreaking Computers, Oxford, England: Oxford University Press, ISBN 0-19-284055-X
+Coriolis, Gaspard-Gustave (1836), "Note sur un moyen de tracer des courbes données par des équations différentielles" (http://visualiseur.bnf.fr/ConsulterElementNum?O=NUMM-163 80&Deb=11&Fin=15&E=PDF), Journal de Mathématiques Pures et Appliquées, series I (in French), 1: 5-9, archived (https://web.archive.org/web/20190703185154/http://visualiseur.bn f.fr/ConsulterElementNum?O=NUMM-16380&Deb=11&Fin=15&E=PDF) from the original on 2019-07-03, retrieved 2008-07-06
+Cortada, James W. (2009), "Public Policies and the Development of National Computer Industries in Britain, France, and the Soviet Union, 1940-80", Journal of Contemporary History, 44 (3): 493-512, doi:10.1177/0022009409104120 (https://doi.org/10.1177%2F0022
+009409104120), JSTOR 40543045 (https://www.jstor.org/stable/40543045), S2CID 159510351 (https://api.semanticscholar.org/CorpusID:159510351)
+CSIRAC: Australia's first computer (https://web.archive.org/web/20111213011635/http://ww w.csiro.au/science/ps4f), Commonwealth Scientific and Industrial Research Organisation (CSIRAC), 3 June 2005, archived from the original (http://www.csiro.au/science/ps4f) on 2011-12-13, retrieved 2007-12-21
+Da Cruz, Frank (28 February 2008), "The IBM Automatic Sequence Controlled Calculator (ASCC)" (http://www.columbia.edu/acis/history/ssec.html), Columbia University Computing History: A Chronology of Computing at Columbia University, Columbia University ACIS, archived (https://web.archive.org/web/20080512024124/http://www.columbia.edu/acis/histor y/ssec.html) from the original on 2008-05-12, retrieved 2008-05-17
+
+Davenport, Wilbur B. Jr; Root, William L. (1958), "An Introduction to the theory of Random Signals and Noise", Physics Today, 11 (6): 112-364, Bibcode:1958PhT	11f..30D (https://u
+i.adsabs.harvard.edu/abs/1958PhT....11f..30D), doi:10.1063/1.3062606 (https://doi.org/10.1 063%2F1.3062606)
+Eckert, Wallace (1935), "The Computation of Special Perturbations by the Punched Card Method.", Astronomical Journal, 44 (1034): 177, Bibcode:1935AJ.....44..177E (https://ui.ads abs.harvard.edu/abs/1935AJ.....44..177E), doi:10.1086/105298 (https://doi.org/10.1086%2F 105298)
+Eckert, Wallace (1940), "XII: "The Computation of Planetary Perturbations" ", Punched Card Methods in Scientific Computation, Thomas J. Watson Astronomical Computing Bureau, Columbia University, pp. 101-114, hdl:2027/uc1.b3621946 (https://hdl.handle.net/2027%2F uc1.b3621946), OCLC 2275308 (https://search.worldcat.org/oclc/2275308)
+Eckhouse, Richard H. Jr.; Morris, L. Robert (1979), Minicomputer Systems: organization, programming, and applications (PDP-11), Prentice-Hall, pp. 1-2, ISBN 0-13-583914-9
+Evans, Claire L. (2018). Broad Band: The Untold Story of the Women Who Made the Internet (https://books.google.com/books?id=C8ouDwAAQBAJ&q=9780735211759&pg=PP 1). New York: Portfolio/Penguin. ISBN 9780735211759. Archived (https://web.archive.org/w eb/20230202182718/https://books.google.com/books?id=C8ouDwAAQBAJ&q=9780735211 759&pg=PP1) from the original on 2023-02-02. Retrieved 2020-10-18.
+Feynman, R. P.; Leighton, Robert; Sands, Matthew (1965), Feynman Lectures on Physics: Mainly Mechanics, Radiation and Heat, vol. I, Reading, Mass: Addison-Wesley, ISBN 0-201- 02010-6, OCLC 531535 (https://search.worldcat.org/oclc/531535)
+Feynman, R. P.; Leighton, Robert; Sands, Matthew (1966), Feynman Lectures on Physics: Quantum Mechanics, vol. III, Reading, Mass: Addison-Wesley, ASIN B007BNG4E0 (https:// www.amazon.com/dp/B007BNG4E0)
+Fisk, Dale (2005), Punch cards (http://www.columbia.edu/acis/history/fisk.pdf) (PDF), Columbia University ACIS, archived (https://web.archive.org/web/20080514213815/http://w ww.columbia.edu/acis/history/fisk.pdf) (PDF) from the original on 2008-05-14, retrieved 2008-05-19
+Flamm, Kenneth (1987), Targeting the Computer: Government Support and International Competition (https://archive.org/details/targeti_fla_1987_00_1729), Washington, DC: Brookings Institution Press, ISBN 978-0-815-72852-8
+Flamm, Kenneth (1988), Creating the Computer: Government, Industry, and High Technology (https://archive.org/details/creatingcomputer0000flam), Washington, DC: Brookings Institution Press, ISBN 978-0-815-72850-4
+Hollerith, Herman (1890). In connection with the electric tabulation system which has been adopted by U.S. government for the work of the census bureau (PhD dissertation).
+Columbia University School of Mines.
+Horowitz, Paul; Hill, Winfield (1989), The Art of Electronics (https://archive.org/details/artofel ectronics00horo) (2nd ed.), Cambridge University Press, ISBN 0-521-37095-7
+Hunt, J. C. R. (1998), "Lewis Fry Richardson and his contributions to Mathematics, Meteorology and Models of Conflict" (https://web.archive.org/web/20080227141027/http://w ww.cpom.org/people/jcrh/AnnRevFluMech(30)LFR.pdf) (PDF), Annu. Rev. Fluid Mech., 30
+(1): xiii-xxxvi, Bibcode:1998AnRFM..30D..13H (https://ui.adsabs.harvard.edu/abs/1998AnR FM..30D..13H), doi:10.1146/annurev.fluid.30.1.0 (https://doi.org/10.1146%2Fannurev.fluid.3 0.1.0), archived from the original (http://www.cpom.org/people/jcrh/AnnRevFluMech(30)LFR. pdf) (PDF) on 2008 02-27, retrieved 2008-06-15
+IBM (September 1956), IBM 350 disk storage unit (https://web.archive.org/web/2008053103 2031/http://www-03.ibm.com/ibm/history/exhibits/storage/storage_350.html), IBM, archived from the original (https://www-03.ibm.com/ibm/history/exhibits/storage/storage_350.html) on 2008 05-31, retrieved 2008-07-01
+
+IBM (1960), IBM Standard Modular System SMS Cards (https://web.archive.org/web/20071 206055309/http://ed-thelen.org/1401Project/Sched2006November.html), IBM, archived from the original (https://ed-thelen.org/1401Project/Sched2006November.html) on 2007-12-06, retrieved 2008-03-06
+Intel (November 1971), Intel's First Microprocessor-the Intel 4004 (http://www.intel.com/mu seum/archives/4004.htm), Intel Corp., archived (https://web.archive.org/web/200805132217 00/http://www.intel.com/museum/archives/4004.htm) from the original on 2008-05-13, retrieved 2008-05-17
+Jones, Douglas W, Punched Cards: A brief illustrated technical history (http://www.cs.uiowa. edu/~jones/cards/history.html), The University of Iowa, archived (https://web.archive.org/we b/20080509054856/http://www.cs.uiowa.edu/~jones/cards/history.html) from the original on 2008-05-09, retrieved 2008-05-15
+Kalman, R.E. (1960), "A new approach to linear filtering and prediction problems" (https://we b.archive.org/web/20080529105724/http://www.elo.utfsm.cl/~ipd481/Papers%20varios/kalm an1960.pdf) (PDF), Journal of Basic Engineering, 82 (1): 35-45, doi:10.1115/1.3662552 (htt ps://doi.org/10.1115%2F1.3662552), S2CID 1242324 (https://api.semanticscholar.org/Corpu sID:1242324), archived from the original (https://www.elo.utfsm.cl/~ipd481/Papers%20vario s/kalman1960.pdf) (PDF) on 2008-05-29, retrieved 2008-05-03
+Kells; Kern; Bland (1943), The Log-Log Duplex Decitrig Slide Rule No. 4081: A Manual (htt p://www.mccoys-kecatalogs.com/KEManuals/4081-3_1937/4081-3_1937.htm), Keuffel & Esser, p. 92, archived (https://web.archive.org/web/20150501073303/http://www.mccoys-ke catalogs.com/KEManuals/4081-3_1937/4081-3_1937.htm) from the original on 2015-05-01, retrieved 2014-05-31
+Kilby, Jack (2000), Nobel lecture (http://nobelprize.org/nobel_prizes/physics/laureates/2000/ kilby-lecture.pdf) (PDF), Stockholm: Nobel Foundation, archived (https://web.archive.org/we b/20080529024119/http://nobelprize.org/nobel_prizes/physics/laureates/2000/kilby-lecture.p df) (PDF) from the original on 2008-05-29, retrieved 2008-05-15
+Kohonen, Teuvo (1980), Content-addressable memories, Springer-Verlag, ISBN 0-387- 09823-2
+Lavington, Simon (1998), A History of Manchester Computers (2nd ed.), Swindon: The British Computer Society
+Lazos, Christos (1994), ? ?????G?S??S ?O? ??????T??O? [The Antikythera Computer], ?????S PUBLICATIONS GR
+Leibniz, Gottfried (1703), Explication de l'Arithmétique Binaire
+Lubar, Steven (May 1991), "Do not fold, spindle or mutilate": A cultural history of the punched card (https://web.archive.org/web/20061025144334/http://ccat.sas.upenn.edu/slub ar/fsm.html), archived from the original (https://ccat.sas.upenn.edu/slubar/fsm.html) on 2006-10-25, retrieved 2006-10-31
+Marguin, Jean (1994), Histoire des instruments et machines à calculer, trois siècles de mécanique pensante 1642-1942 (in French), Hermann, ISBN 978-2-7056-6166-3
+Martin, Douglas (29 June 2008), "David Caminer, 92 Dies; A Pioneer in Computers", The New York Times, p. 24
+Mayo, Keenan; Newcomb, Peter (July 2008), "How the web was won: an oral history of the internet" (https://www.vanityfair.com/news/2008/07/internet200807), Vanity Fair, pp. 96-117, archived (https://web.archive.org/web/20201109082643/https://www.vanityfair.com/news/20 08/07/internet200807) from the original on 2020-11-09, retrieved 2020-12-01
+Mead, Carver; Conway, Lynn (1980), Introduction to VLSI Systems (https://archive.org/detail s/introductiontovl00mead), Reading, Mass.: Addison-Wesley, Bibcode:1980aw...book.	M
+(https://ui.adsabs.harvard.edu/abs/1980aw...book.	M), ISBN 0-201-04358-0
+
+Menabrea, Luigi Federico; Lovelace, Ada (1843), "Sketch of the Analytical Engine Invented by Charles Babbage" (http://www.fourmilab.ch/babbage/sketch.html), Scientific Memoirs, 3, archived (https://web.archive.org/web/20080915134651/http://www.fourmilab.ch/babbage/sk etch.html) from the original on 2008-09-15, retrieved 2008-05-04 With notes upon the Memoir by the Translator.
+Menninger, Karl (1992), Number Words and Number Symbols: A Cultural History of Numbers, Dover Publications German to English translation, M.I.T., 1969.
+Montaner; Simon (1887), Diccionario enciclopédico hispano-americano de literatura, ciencias y artes (Hispano-American Encyclopedic Dictionary)
+Moye, William T. (January 1996), ENIAC: The Army-Sponsored Revolution (https://ftp.arl.ar my.mil/~mike/comphist/96summary/), archived (https://web.archive.org/web/2007071613220 1/http://ftp.arl.army.mil/~mike/comphist/96summary/) from the original on 2007-07-16, retrieved 2008-05-17
+Ocagne, Maurice d' (1893). "Calcul simplifié par des procédés mécaniques et graphiques. Premier cours: Instruments et machines arithmétiques" (https://cnum.cnam.fr/pgi/fpage.ph p?8KU54-2.5/235/100/369/363/369) [Simplified calculation by mechanical and graphical processes. First lesson: Arithmetic instruments and machines]. Annales du Conservatoire des Arts et Métiers, éditées par les professeurs (https://cnum.cnam.fr/CGI/fpage.cgi?8KU54
+-2.5/248/150/369/363/369) [Annals of the Conservatoire des Arts et Métiers, edited by the professors]. 2nd (in French). Vol. V. Paris: Gauthier-Villars et Fils. pp. 231-268. Archived (htt ps://web.archive.org/web/20180809111700/http://cnum.cnam.fr/CGI/fpage.cgi?8KU54-2.5% 2F248%2F150%2F369%2F363%2F369) from the original on 2018-08-09 - via CNAM.
+Patterson, David; Hennessy, John (1998), Computer Organization and Design (https://archiv e.org/details/computerorganiz000henn), San Francisco: Morgan Kaufmann, ISBN 1-55860- 428-6
+Mourlevat, Guy (1988), Les machines arithmétiques de Blaise Pascal (in French), Clermont- Ferrand: La Française d'Edition et d'Imprimerie
+Pellerin, David; Thibault, Scott (22 April 2005), Practical FPGA Programming in C, Prentice Hall Modern Semiconductor Design Series Sub Series: PH Signal Integrity Library, pp. 1- 464, ISBN 0-13-154318-0
+Phillips, A.W.H., The MONIAC (https://web.archive.org/web/20071024041827/http://www.rbn z.govt.nz/about/museum/3121411.pdf) (PDF), Reserve Bank Museum, archived from the original (http://www.rbnz.govt.nz/about/museum/3121411.pdf) (PDF) on 2007-10-24, retrieved 2006-05-17
+Randell, Brian (1980), "The Colossus" (https://archive.org/details/historyofcomputi0000inte/p age/47), in Metropolis, N.; Howlett, J.; Rota, Gian-Carlo (eds.), A History of Computing in the Twentieth Century, Elsevier Science, pp. 47-92, ISBN 978-0124916500
+Reynolds, David (2010), "Science, technology, and the Cold War", in Leffler, Melvyn P.; Westad, Odd Arne (eds.), The Cambridge History of the Cold War, Volume III: Endings, Cambridge: Cambridge University Press, pp. 378-399, ISBN 978-0-521-83721-7
+Rojas, Raul; Hashagen, Ulf, eds. (2000). The First Computers: History and Architectures. Cambridge: MIT Press. ISBN 0-262-68137-4.
+Schmandt-Besserat, Denise (1981), "Decipherment of the earliest tablets", Science, 211 (4479): 283-285, Bibcode:1981Sci...211..283S (https://ui.adsabs.harvard.edu/abs/1981Sc i...211..283S), doi:10.1126/science.211.4479.283 (https://doi.org/10.1126%2Fscience.211.4 479.283), PMID 17748027 (https://pubmed.ncbi.nlm.nih.gov/17748027)
+Shannon, Claude (December 1938). "A Symbolic Analysis of Relay and Switching Circuits". Transactions of the American Institute of Electrical Engineers. 57 (12): 713-723. doi:10.1109/t-aiee.1938.5057767 (https://doi.org/10.1109%2Ft-aiee.1938.5057767). hdl:1721.1/11173 (https://hdl.handle.net/1721.1%2F11173). S2CID 51638483 (https://api.se manticscholar.org/CorpusID:51638483).
+
+Shannon, Claude E. (1940), A symbolic analysis of relay and switching circuits (Thesis), Massachusetts Institute of Technology, Dept. of Electrical Engineering, hdl:1721.1/11173 (htt ps://hdl.handle.net/1721.1%2F11173)
+Simon, Herbert A. (1991), Models of My Life, Basic Books, Sloan Foundation Series
+Singer (1946), Singer in World War II, 1939-1945 - the M5 Director (https://web.archive.or g/web/20090604094416/http://home.roadrunner.com/~featherweight/m5direct.htm), Singer Manufacturing Co., archived from the original (https://home.roadrunner.com/~featherweight/ m5direct.htm) on 2009-06-04, retrieved 2008-05-17
+Smith, David Eugene (1929), A Source Book in Mathematics, New York: McGraw-Hill,
+pp. 180-181
+Smith, Michael (2007) [1998], Station X: The Codebreakers of Bletchley Park, Pan Grand Strategy Series, London: Pan MacMillan Ltd, ISBN 978-0-330-41929-1
+Smolin, Lee (2001), Three Roads to Quantum Gravity, Basic Books, pp. 53-57 (https://archi ve.org/details/threeroadstoquan00smol_0/page/53), ISBN 0-465-07835-4 Pages 220-226 are annotated references and guide for further reading.
+Steinhaus, H. (1999), Mathematical Snapshots (3rd ed.), New York: Dover, pp. 92-95, p. 301
+Stern, Nancy (1981), From ENIAC to UNIVAC: An Appraisal of the Eckert-Mauchly Computers, Digital Press, ISBN 0-932376-14-2
+Stibitz, George US patent 2668661 (https://worldwide.espacenet.com/textdoc?DB=EPODO C&IDX=US2668661), George Stibitz, "Complex Computer", issued 9 February 1954, assigned to American Telephone & Telegraph Company
+Taton, René (1969), Histoire du calcul. Que sais-je ? n° 198 (in French), Presses universitaires de France
+Turing, Alan M. (1937). "On Computable Numbers, with an Application to the Entscheidungsproblem". Proceedings of the London Mathematical Society. 2. 42 (1): 230-
+265. doi:10.1112/plms/s2-42.1.230 (https://doi.org/10.1112%2Fplms%2Fs2-42.1.230). S2CID 73712 (https://api.semanticscholar.org/CorpusID:73712).
+Other online sources:
+ • - (1937). "On Computable Numbers, with an Application to the Entscheidungsproblem" (https://archive.org/details/pdfy-Zc8HeJshvCrCGg1N). Retrieved 2023-08-31 - via Internet Archive.
+ • - (1937). "On Computable Numbers, with an Application to the Entscheidungsproblem" (https://web.archive.org/web/20110222111427/http://www.thoc p.net/biographies/papers/turing_oncomputablenumbers_1936.pdf) (PDF). Archived from the original (https://www.thocp.net/biographies/papers/turing_oncomputablenumbers_19 36.pdf) (PDF) on 2011-02-22 - via thocp.net.
+- (1938). "On Computable Numbers, with an Application to the Entscheidungsproblem: A correction". Proceedings of the London Mathematical Society. 2. 43 (6): 544-546. doi:10.1112/plms/s2-43.6.544 (https://doi.org/10.1112%2Fplms%2Fs2-43.6.544).
+Ulam, Stanislaw (1976), Adventures of a Mathematician, New York: Charles Scribner's Sons, ISBN 978-0-684-14391-0, (autobiography)
+Vidal, Nathalie; Vogt, Dominique (2011), Les Machines Arithmétiques de Blaise Pascal (in French), Clermont-Ferrand: Muséum Henri-Lecoq, ISBN 978-2-9528068-4-8
+von Neumann, John (30 June 1945), First Draft of a Report on the EDVAC, Moore School of Electrical Engineering: University of Pennsylvania
+Welchman, Gordon (1984), The Hut Six Story: Breaking the Enigma Codes, Harmondsworth, England: Penguin Books, pp. 138-145, 295-309
+Wilkes, Maurice (1986), "The Genesis of Microprogramming", Ann. Hist. Comp., 8 (2): 115-
+126
+
+Williams, Michael R. (1997), History of Computing Technology, Los Alamitos, California: IEEE Computer Society, ISBN 0-8186-7739-2
+Ziemer, Roger E.; Tranter, William H.; Fannin, D. Ronald (1993), Signals and Systems: Continuous and Discrete, Macmillan, p. 370, ISBN 0-02-431641-5
+Zuse, Konrad (1993) [1984]. Der Computer. Mein Lebenswerk (in German) (3rd ed.). Berlin: Springer-Verlag. ISBN 978-3-540-56292-4.
+Zuse, Konrad (2010) [1984]. The Computer - My Life. Translated by McKenna, Patricia; Ross, J. Andrew. Berlin/Heidelberg: Springer-Verlag. ISBN 978-3-642-08151-4. Translated from: Der Computer. Mein Lebenswerk (1984).
+
+Further reading
+
+
+"online access" (https://web.archive.org/web/20060523142200/http://csdl2.computer.org/per sagen/DLPublication.jsp?pubtype=m&acronym=an). IEEE Annals of the History of Computing. Archived from the original (https://csdl2.computer.org/persagen/DLPublication.js p?pubtype=m&acronym=an) on 2006-05-23.
+Ceruzzi, Paul E. (1998), A History of Modern Computing, The MIT Press
+Computers and Automation (https://www.bitsavers.org/magazines/Computers_And_Automat ion/) Magazine - Pictorial Report on the Computer Field:
+A PICTORIAL INTRODUCTION TO COMPUTERS - 06/1957 (https://www.bitsavers.org/ magazines/Computers_And_Automation/195706.pdf)
+A PICTORIAL MANUAL ON COMPUTERS - 12/1957 (https://www.bitsavers.org/magazi nes/Computers_And_Automation/195712.pdf)
+A PICTORIAL MANUAL ON COMPUTERS, Part 2 - 01/1958 (https://www.bitsavers.org/ magazines/Computers_And_Automation/195801.pdf)
+1958-1967 Pictorial Report on the Computer Field - December issues (195812.pdf, ..., 196712.pdf (https://www.bitsavers.org/magazines/Computers_And_Automation/))
+Bit by Bit: An Illustrated History of Computers, Stan Augarten, 1984. OCR with permission of the author (http://ds-wordpress.haverford.edu/bitbybit/)
+"Z3 Computer (1938-1941)" (https://web.archive.org/web/20080617234903/http://www.com putermuseum.li/Testpage/Z3-Computer-1939.htm). www.computermuseum.li. Archived from the original (http://www.computermuseum.li/Testpage/Z3-Computer-1939.htm) on 2008-06-
+17. Retrieved 2008-06-01.
+
+External links
+
+
+Obsolete Technology - Old Computers (https://www.oldcomputers.net/)
+Things That Count (https://meta-studies.net/pmwiki/pmwiki.php?n=Site.Introduction) Historic Computers in Japan (https://museum.ipsj.or.jp/en/computer/index.html)
+The History of Japanese Mechanical Calculating Machines (https://www.xnumber.com/xnum ber/japanese_calculators.htm)
+Computer History (https://web.archive.org/web/20090405054226/http://www.trailing-edge.co m/~bobbemer/HISTORY.HTM) - a collection of articles by Bob Bemer
+25 Microchips that shook the world (https://web.archive.org/web/20190610103014/https://sp ectrum.ieee.org/static/25chips) (archived) - a collection of articles by the Institute of Electrical and Electronics Engineers
+Columbia University Computing History (https://www.columbia.edu/cu/computinghistory/)
+
+Computer Histories (http://www.computerhistories.org/) - An introductory course on the history of computing
+Revolution - The First 2000 Years Of Computing (https://www.computerhistory.org/revolutio n/), Computer History Museum
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=History_of_computing_hardware&oldid=1301504906"

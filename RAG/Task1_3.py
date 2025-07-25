@@ -17,11 +17,12 @@ def NormalizeData(numbers):
 
 def create_mock_embedding(string):
     
- array=[ord(char) for char in string]
+
+ array=[ord(char) for char in str(string)]
 
 
- for x1 in array:
-     print(x1)
+#  for x1 in array:
+#      print(x1)
     
  l=len(array)
  iter = l-3
@@ -35,7 +36,18 @@ def create_mock_embedding(string):
  else:
     array = NormalizeData(array)
     return array
-        
-        
-array=create_mock_embedding("cat") 
-print (array)   
+      
+
+
+
+
+
+
+
+print("Embedding 1", create_mock_embedding("The cat sat on the mat."))
+print("Embedding 2",create_mock_embedding("The dog barked loudly."))
+print("Embedding 3",create_mock_embedding("A small feline rested on a rug."))
+print("Embedding 4",create_mock_embedding("A small feline rested on a rug."))
+
+#for similar texts same embeddings are getting returned
+
