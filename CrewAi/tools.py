@@ -36,3 +36,27 @@ def describe_image(image_path:str)->str:
     except Exception as e:
         return f"error describing image: {e}"
     
+
+
+
+
+@tool("extract object list from image description ")
+
+def list_object(description:str)->str:
+
+    try:
+        respose=slient.chat.completions.create(
+            model="gpt-4o-mini-2024-07-18",
+            messages=[
+                {"role":"system","content":"You are a helpful assistant that extracts objects from descriptions."},
+                {"role":"user","content":f"From the following description, extract the list of objects in bullet points:\n\n{description}"}
+            ]
+            
+        )
+        return respose.choices[0].message.content
+    
+    expect Exception as e:
+    return "Error {e}"
+
+
+    
