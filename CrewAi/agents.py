@@ -1,7 +1,8 @@
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
-from crewai import Agent
+from crewai import Agent,Task,Crew
+from tools import describe_image,list_object
 
 
 load_dotenv()
@@ -19,8 +20,36 @@ ImageExtractor=Agent(
     backstory=(
         "This agents is expert in describing images with precision and detail useing tools like gpt and then extracts the object list from the description"
     ),
-    tools=[],
+    tools=[describe_image,list_object],
     allow_delegation=False
 
 
 )
+
+
+
+crewAi_agent=Task(
+    description=( "Take the image file at {image_path}, describe it using the vision model, "
+        "then extract a bullet-point list of all the objects visible in the image."
+   ),
+    expected_output="A detailed bullet-point list of objects seen in the image.",
+    agent=ImageExtractor,
+    tools=[describe_image,list_object],
+    async_execution=False,
+    output_file="output.txt",
+)
+
+crew=Crew(
+    agents=[ImageExtractor],
+    tasks=[crewAi_agent],
+    verbose=True
+    
+)
+
+if __name__ == "__main__":
+  
+    image_path = 'mahad.jpg' 
+
+    print("Crew AI in action...")
+    result = crew.kickoff(inputs={"image_path": image_path})
+    
