@@ -46,10 +46,9 @@ crew=Crew(
     
 )
 
-if __name__ == "__main__":
-  
-    image_path = 'mahad.jpg' 
 
-    print("Crew AI in action...")
-    result = crew.kickoff(inputs={"image_path": image_path})
+image_path = 'mahad.jpg' 
+
+print("Crew AI in action...")
+result = crew.kickoff(inputs={"image_path": image_path})
     
