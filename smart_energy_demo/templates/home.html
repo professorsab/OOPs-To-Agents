@@ -82,7 +82,7 @@
             border-color: #4CAF50;
         }
 
-        .submit-btn {
+        .submit-btn, .step-btn {
             background: linear-gradient(135deg, #4CAF50, #45a049);
             color: white;
             padding: 15px 40px;
@@ -93,10 +93,17 @@
             cursor: pointer;
             transition: transform 0.2s;
             width: 100%;
+            margin-top: 15px;
         }
 
-        .submit-btn:hover {
+        .submit-btn:hover, .step-btn:hover {
             transform: translateY(-2px);
+        }
+
+        .step-btn:disabled {
+            background: #cccccc;
+            cursor: not-allowed;
+            transform: none;
         }
 
         .progress-section {
@@ -109,6 +116,11 @@
             border-radius: 15px;
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
             overflow: hidden;
+            display: none;
+        }
+
+        .progress-step.active {
+            display: block;
         }
 
         .step-header {
@@ -272,62 +284,107 @@
                     <div class="form-group">
                         <label for="appliance">Select Appliance:</label>
                         <select name="appliance" id="appliance" required>
-                            <option value="dryer">Clothes Dryer</option>
-                            <option value="washing machine">Washing Machine</option>
-                            <option value="dishwasher">Dishwasher</option>
-                            <option value="water heater">Water Heater</option>
-                            <option value="air conditioner">Air Conditioner</option>
-                            <option value="electric oven">Electric Oven</option>
-                            <option value="pool pump">Pool Pump</option>
+                            <option value="dryer" {% if appliance == 'dryer' %}selected{% endif %}>Clothes Dryer</option>
+                            <option value="washing machine" {% if appliance == 'washing machine' %}selected{% endif %}>Washing Machine</option>
+                            <option value="dishwasher" {% if appliance == 'dishwasher' %}selected{% endif %}>Dishwasher</option>
+                            <option value="water heater" {% if appliance == 'water heater' %}selected{% endif %}>Water Heater</option>
+                            <option value="air conditioner" {% if appliance == 'air conditioner' %}selected{% endif %}>Air Conditioner</option>
+                            <option value="electric oven" {% if appliance == 'electric oven' %}selected{% endif %}>Electric Oven</option>
+                            <option value="pool pump" {% if appliance == 'pool pump' %}selected{% endif %}>Pool Pump</option>
                         </select>
                     </div>
 
                     <div class="form-group">
                         <label for="time">Preferred Time (24-hour format):</label>
-                        <input type="time" name="time" id="time" value="19:00" required>
+                        <input type="time" name="time" id="time" value="{{ time if time else '08:00' }}" required>
                     </div>
 
-                    <button type="submit" class="submit-btn">🚀 Optimize Energy Usage</button>
+                    <input type="hidden" name="step" id="step" value="1">
+                    <button type="submit" class="submit-btn">🚀 Start Energy Optimization</button>
                 </form>
             </div>
 
             {% if steps %}
             <div class="progress-section">
-                {% for step in steps %}
-                <div class="progress-step">
+                <!-- Step 1: MCP Protocol -->
+                {% if steps|length >= 1 %}
+                <div class="progress-step active" id="step-1">
                     <div class="step-header">
-                        <div class="step-number">{{ loop.index }}</div>
-                        <div class="step-title">{{ step.title }}</div>
+                        <div class="step-number">1</div>
+                        <div class="step-title">{{ steps[0].title }}</div>
                     </div>
                     <div class="step-content">
-                        <div class="step-status {{ step.status_class }}">{{ step.status }}</div>
-                        <div>{{ step.description }}</div>
-                        {% if step.data %}
-                            {% if step.type == 'tariff' %}
-                                <div class="tariff-info">
-                                    <strong>📊 Current Electricity Tariff ({{ step.data.location|title }})</strong>
-                                    <div class="tariff-grid">
-                                        <div class="tariff-item">
-                                            <div class="tariff-value">{{ step.data.peak_rate }} PKR</div>
-                                            <div class="tariff-label">Peak Rate/kWh</div>
-                                        </div>
-                                        <div class="tariff-item">
-                                            <div class="tariff-value">{{ step.data.off_peak_rate }} PKR</div>
-                                            <div class="tariff-label">Off-Peak Rate/kWh</div>
-                                        </div>
-                                        <div class="tariff-item">
-                                            <div class="tariff-value">{{ step.data.peak_hours_start }}:00-{{ step.data.peak_hours_end }}:00</div>
-                                            <div class="tariff-label">Peak Hours</div>
-                                        </div>
+                        <div class="step-status {{ steps[0].status_class }}">{{ steps[0].status }}</div>
+                        <div>{{ steps[0].description }}</div>
+                        {% if steps[0].data %}
+                            <div class="tariff-info">
+                                <strong>📊 Current Electricity Tariff ({{ steps[0].data.location|title }})</strong>
+                                <div class="tariff-grid">
+                                    <div class="tariff-item">
+                                        <div class="tariff-value">{{ steps[0].data.peak_rate }} PKR</div>
+                                        <div class="tariff-label">Peak Rate/kWh</div>
+                                    </div>
+                                    <div class="tariff-item">
+                                        <div class="tariff-value">{{ steps[0].data.off_peak_rate }} PKR</div>
+                                        <div class="tariff-label">Off-Peak Rate/kWh</div>
+                                    </div>
+                                    <div class="tariff-item">
+                                        <div class="tariff-value">{{ steps[0].data.peak_hours_start }}:00-{{ steps[0].data.peak_hours_end }}:00</div>
+                                        <div class="tariff-label">Peak Hours</div>
                                     </div>
                                 </div>
-                            {% elif step.type == 'json' %}
-                                <div class="json-display">{{ step.data }}</div>
-                            {% endif %}
+                            </div>
+                        {% endif %}
+                        {% if current_step == 1 %}
+                        <form method="post" style="margin-top: 20px;">
+                            <input type="hidden" name="appliance" value="{{ appliance }}">
+                            <input type="hidden" name="time" value="{{ time }}">
+                            <input type="hidden" name="step" value="2">
+                            <button type="submit" class="step-btn">📤 Continue to ACP Protocol</button>
+                        </form>
                         {% endif %}
                     </div>
                 </div>
-                {% endfor %}
+                {% endif %}
+
+                <!-- Step 2: ACP Protocol -->
+                {% if steps|length >= 2 and current_step >= 2 %}
+                <div class="progress-step active" id="step-2">
+                    <div class="step-header">
+                        <div class="step-number">2</div>
+                        <div class="step-title">{{ steps[1].title }}</div>
+                    </div>
+                    <div class="step-content">
+                        <div class="step-status {{ steps[1].status_class }}">{{ steps[1].status }}</div>
+                        <div>{{ steps[1].description }}</div>
+                        {% if steps[1].data %}
+                            <div class="json-display">{{ steps[1].data }}</div>
+                        {% endif %}
+                        {% if current_step == 2 %}
+                        <form method="post" style="margin-top: 20px;">
+                            <input type="hidden" name="appliance" value="{{ appliance }}">
+                            <input type="hidden" name="time" value="{{ time }}">
+                            <input type="hidden" name="step" value="3">
+                            <button type="submit" class="step-btn">🤖 Generate AI Recommendation</button>
+                        </form>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endif %}
+
+                <!-- Step 3: AI Analysis -->
+                {% if steps|length >= 3 and current_step >= 3 %}
+                <div class="progress-step active" id="step-3">
+                    <div class="step-header">
+                        <div class="step-number">3</div>
+                        <div class="step-title">{{ steps[2].title }}</div>
+                    </div>
+                    <div class="step-content">
+                        <div class="step-status {{ steps[2].status_class }}">{{ steps[2].status }}</div>
+                        <div>{{ steps[2].description }}</div>
+                    </div>
+                </div>
+                {% endif %}
             </div>
             {% endif %}
 
