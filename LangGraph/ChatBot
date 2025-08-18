@@ -1,0 +1,42 @@
+import openai
+from dotenv import load_dotenv
+import os
+from typing import Annotated
+from typing_extensions import TypedDict
+from langgraph.graph import StateGraph, START, END
+from langgraph.graph.message import add_messages
+
+# Load environment variables
+load_dotenv()
+
+client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+langsmith = os.getenv('LANGSMITH_API_KEY')
+os.environ["LANGCHAIN_API_KEY"] = langsmith
+os.environ["LANGCHAIN_TRACING_V2"] = "true"
+os.environ["LANGCHAIN_PROJECT"] = "ChatBot"
+
+# Corrected LLM initialization
+llm_response = openai.ChatCompletion.create(
+    model="gpt-4-0-mini",
+    messages=[
+        {"role": "system", "content": "You are a helpful assistant."},
+        {"role": "user", "content": "Hello, how can I use this chatbot?"}
+    ],
+    temperature=0.7,
+    max_tokens=150
+)
+
+# Extract the assistant's response
+llm = llm_response['choices'][0]['message']['content']
+
+class state(TypedDict):
+    messages: Annotated[list, add_messages]
+
+graph_builder = StateGraph(State)
+
+graph_builder
+
+
+
+
